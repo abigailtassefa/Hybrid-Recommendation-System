@@ -1,0 +1,2661 @@
+synthetic_user_id,drugName,condition,rating
+user_1,Tadalafil,Erectile Dysfunction,8.2
+user_1,Viagra,Erectile Dysfunction,9.8
+user_2,Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,8.9
+user_2,Multivitamin with iron,Vitamin/Mineral Supplementation and Deficiency,1.3
+user_2,Cefixime,STD Prophylaxis,7.1
+user_3,Estrace Vaginal Cream,Atrophic Urethritis,9.9
+user_3,Estradiol,Atrophic Urethritis,1.0
+user_4,Methylprednisolone,Inflammatory Conditions,10.0
+user_4,Decadron,Inflammatory Conditions,7.5
+user_4,Prednisone,Inflammatory Conditions,7.6
+user_5,Narcan Injection,Reversal of Opioid Sedation,8.0
+user_5,Naloxone,Reversal of Opioid Sedation,10.0
+user_6,Bacitracin / neomycin / polymyxin b,"Conjunctivitis, Bacterial",9.9
+user_6,Dexamethasone / neomycin / polymyxin b,"Conjunctivitis, Bacterial",10.0
+user_6,Vigamox,"Conjunctivitis, Bacterial",6.8
+user_6,Zylet,"Conjunctivitis, Bacterial",9.5
+user_6,Azithromycin,"Conjunctivitis, Bacterial",9.1
+user_6,Moxifloxacin,"Conjunctivitis, Bacterial",9.9
+user_6,Loteprednol / tobramycin,"Conjunctivitis, Bacterial",7.3
+user_7,Budeprion XL,9</span> users found this comment helpful.,8.8
+user_7,Amitiza,9</span> users found this comment helpful.,8.5
+user_7,Lamictal,9</span> users found this comment helpful.,5.0
+user_8,Vidaza,Myelodysplastic Syndrome,3.2
+user_8,Azacitidine,Myelodysplastic Syndrome,10.0
+user_9,Armour Thyroid,Thyroid Cance,10.0
+user_9,Thyroid desiccated,Thyroid Cance,1.2
+user_9,Cometriq,Thyroid Cance,1.3
+user_9,Nature-Throid,Thyroid Cance,10.0
+user_9,Nexavar,Thyroid Cance,6.8
+user_9,Cabozantinib,Thyroid Cance,1.4
+user_10,Carvedilol,Left Ventricular Dysfunction,9.9
+user_10,Metoprolol,Left Ventricular Dysfunction,5.6
+user_10,Diovan,Left Ventricular Dysfunction,8.7
+user_11,Vancomycin,Sepsis,1.6
+user_12,Alendronate,Prevention of Osteoporosis,2.8
+user_12,Risedronate,Prevention of Osteoporosis,1.0
+user_12,Raloxifene,Prevention of Osteoporosis,7.7
+user_12,Zoledronic acid,Prevention of Osteoporosis,6.3
+user_12,Reclast,Prevention of Osteoporosis,8.2
+user_13,Lyrica,16</span> users found this comment helpful.,1.0
+user_13,Luvox,16</span> users found this comment helpful.,2.8
+user_13,VESIcare,16</span> users found this comment helpful.,5.5
+user_13,Xanax,16</span> users found this comment helpful.,10.0
+user_13,Saphris,16</span> users found this comment helpful.,7.1
+user_13,Adderall,16</span> users found this comment helpful.,9.6
+user_14,Pin-X,Pinworm Infection (Enterobius vermicularis),7.7
+user_14,Furosemide,Hypercalcemia,7.0
+user_14,Pyrantel,Pinworm Infection (Enterobius vermicularis),5.5
+user_14,Albendazole,Pinworm Infection (Enterobius vermicularis),8.2
+user_15,Fentanyl,Breakthrough Pain,10.0
+user_15,Fentora,Breakthrough Pain,7.9
+user_15,Actiq,Breakthrough Pain,8.2
+user_16,Lexapro,Anxiety,9.4
+user_16,Propranolol,Anxiety,10.0
+user_16,Clonazepam,Anxiety,7.8
+user_17,Varenicline,Smoking Cessation,7.1
+user_17,Zyban,Smoking Cessation,10.0
+user_17,Chantix,Smoking Cessation,10.0
+user_17,Bupropion,Smoking Cessation,8.8
+user_18,Levothyroxine,Thyroid Suppression Test,1.3
+user_19,Remicade,Crohn's Disease,3.6
+user_19,Entocort EC,Crohn's Disease,8.3
+user_19,Colazal,Crohn's Disease,9.5
+user_20,Hizentra,Primary Immunodeficiency Syndrome,7.1
+user_20,Octagam,Primary Immunodeficiency Syndrome,7.9
+user_20,Gamunex,Primary Immunodeficiency Syndrome,8.8
+user_20,Immune globulin subcutaneous,Primary Immunodeficiency Syndrome,10.0
+user_21,Prepopik,Bowel Preparation,1.0
+user_21,Suprep Bowel Prep Kit,Bowel Preparation,1.1
+user_22,Ranitidine,GERD,2.4
+user_22,Dexlansoprazole,GERD,7.0
+user_22,Prilosec OTC,GERD,8.6
+user_22,Lansoprazole,GERD,4.9
+user_22,Prevacid,GERD,5.9
+user_22,Dexilant,GERD,6.5
+user_22,Kapidex,GERD,9.4
+user_23,Luvox,Anxiety and Stress,4.0
+user_23,Celexa,Anxiety and Stress,10.0
+user_23,Citalopram,Anxiety and Stress,9.8
+user_24,Trilipix,Hypertriglyceridemia,2.1
+user_24,Lovaza,Hypertriglyceridemia,9.9
+user_24,Vascepa,Hypertriglyceridemia,1.6
+user_24,Fenofibrate,Hypertriglyceridemia,8.5
+user_25,Erbitux,Colorectal Cance,9.0
+user_25,Xeloda,Colorectal Cance,10.0
+user_25,Oxaliplatin,Colorectal Cance,6.0
+user_25,Panitumumab,Colorectal Cance,8.3
+user_26,Metronidazole,Pelvic Inflammatory Disease,8.1
+user_26,Ceftriaxone,Pelvic Inflammatory Disease,3.8
+user_26,Doxycycline,Pelvic Inflammatory Disease,6.6
+user_27,Ondansetron,Gastroenteritis,10.0
+user_27,Zofran,Gastroenteritis,9.7
+user_28,Zoloft,8</span> users found this comment helpful.,7.4
+user_28,Aviane,8</span> users found this comment helpful.,1.0
+user_28,Requip,8</span> users found this comment helpful.,1.1
+user_28,Necon 1 / 35,8</span> users found this comment helpful.,8.0
+user_28,Mirena,8</span> users found this comment helpful.,9.5
+user_28,Nicotrol Inhaler,8</span> users found this comment helpful.,9.9
+user_29,Prednisone,"Epicondylitis, Tennis Elbow",1.0
+user_30,Metoclopramide,Gastroparesis,3.0
+user_30,Reglan,Gastroparesis,8.1
+user_31,Itraconazole,Sporotrichosis,8.2
+user_32,Metamucil,Dietary Fiber Supplementation,3.2
+user_32,Psyllium,Dietary Fiber Supplementation,9.9
+user_32,Lo / Ovral-28,43</span> users found this comment helpful.,10.0
+user_32,Fanapt,43</span> users found this comment helpful.,7.7
+user_32,Inulin,Dietary Fiber Supplementation,5.3
+user_33,Plavix,Platelet Aggregation Inhibition,8.9
+user_33,Thorazine,Porphyria,7.2
+user_33,Chlorpromazine,Porphyria,7.4
+user_33,Panhematin,Porphyria,10.0
+user_33,Hemin,Porphyria,9.4
+user_34,Metronidazole,Bacterial Infection,7.4
+user_34,Doxy 100,Bacterial Infection,8.2
+user_34,Bactrim,Bacterial Infection,6.6
+user_34,Clindamycin,Bacterial Infection,6.4
+user_35,Imatinib,Chronic Eosinophilic Leukemia,8.1
+user_35,Gleevec,Chronic Eosinophilic Leukemia,8.0
+user_36,Tretinoin,Acute Promyelocytic Leukemia,9.0
+user_36,Evista,"Breast Cancer, Prevention",9.9
+user_36,Raloxifene,"Breast Cancer, Prevention",9.8
+user_37,Eylea,Macular Edema,3.6
+user_37,Dexamethasone,Macular Edema,1.0
+user_37,Lucentis,Macular Edema,5.4
+user_37,Ranibizumab,Macular Edema,6.3
+user_37,Aflibercept,Macular Edema,2.8
+user_38,Doxycycline,Q Feve,9.3
+user_38,Selenium sulfide,Seborrheic Dermatitis,9.3
+user_38,Ketoconazole,Seborrheic Dermatitis,1.6
+user_38,Ovace Plus,Seborrheic Dermatitis,10.0
+user_39,Aflibercept,Diabetic Macular Edema,2.2
+user_39,Dapsone,Linear IgA Disease,10.0
+user_39,Eylea,Diabetic Macular Edema,9.7
+user_40,Hydroxychloroquine,Sjogren's Syndrome,8.0
+user_40,Cevimeline,Sjogren's Syndrome,9.5
+user_40,Plaquenil,Sjogren's Syndrome,9.1
+user_41,Nortriptyline,Vulvodynia,5.4
+user_41,Topamax,Vulvodynia,8.1
+user_41,Elavil,Vulvodynia,8.4
+user_41,Amitriptyline,Vulvodynia,8.7
+user_42,Lupron,Prostate Cance,1.0
+user_42,Abiraterone,Prostate Cance,9.8
+user_42,Goserelin,Prostate Cance,10.0
+user_43,Ciprofloxacin,Traveler's Diarrhea,9.5
+user_43,Ofloxacin,Traveler's Diarrhea,1.0
+user_43,Rifaximin,Traveler's Diarrhea,8.2
+user_43,Loperamide,Traveler's Diarrhea,9.8
+user_43,Imodium,Traveler's Diarrhea,2.0
+user_43,Pantoprazole,Peptic Ulce,10.0
+user_43,Cipro,Traveler's Diarrhea,10.0
+user_44,Cyproheptadine,Anorexia,10.0
+user_44,Marinol,Anorexia,9.6
+user_44,Dronabinol,Anorexia,1.2
+user_44,Megestrol,Anorexia,10.0
+user_45,Emtricitabine / tenofovir,Nonoccupational Exposure,3.4
+user_45,Efavirenz,Nonoccupational Exposure,8.5
+user_45,Ciprofloxacin,Infectious Diarrhea,3.8
+user_45,Efavirenz / emtricitabine / tenofovir,Nonoccupational Exposure,9.0
+user_46,Doxycycline,Q Feve,9.7
+user_47,Azo-Standard,15</span> users found this comment helpful.,7.2
+user_47,Dymista,15</span> users found this comment helpful.,10.0
+user_47,Depo-Provera,15</span> users found this comment helpful.,1.6
+user_47,Flexeril,15</span> users found this comment helpful.,1.6
+user_47,MS Contin,15</span> users found this comment helpful.,6.3
+user_47,Ultram,15</span> users found this comment helpful.,1.0
+user_47,Adderall,15</span> users found this comment helpful.,8.3
+user_48,Cipro,Traveler's Diarrhea,9.6
+user_48,Rifaximin,Traveler's Diarrhea,9.3
+user_48,Loperamide,Traveler's Diarrhea,2.1
+user_48,Ofloxacin,Campylobacter Gastroenteritis,10.0
+user_49,Oracea,Ocular Rosacea,9.5
+user_49,Doxycycline,Ocular Rosacea,1.7
+user_50,Enalapril,Left Ventricular Dysfunction,1.0
+user_50,Toprol-XL,Left Ventricular Dysfunction,8.5
+user_50,Metoprolol,Left Ventricular Dysfunction,5.5
+user_51,Multivitamin with iron,Anemia,7.4
+user_51,Isoniazid,"Tuberculosis, Active",7.5
+user_51,Maxaron Forte,Anemia,7.4
+user_51,Epogen,Anemia,9.1
+user_51,Procrit,Anemia,1.0
+user_52,Flonase,Nasal Polyps,10.0
+user_52,Nasonex,Nasal Polyps,3.6
+user_52,Fluticasone,Nasal Polyps,9.4
+user_52,Veramyst,Nasal Polyps,8.7
+user_53,Ingenol,Actinic Keratosis,8.3
+user_53,Fluorouracil,Actinic Keratosis,9.8
+user_53,Carac,Actinic Keratosis,9.4
+user_53,Tolak,Actinic Keratosis,1.4
+user_54,Sotalol Hydrochloride AF,Atrial Fibrillation,9.3
+user_54,Diltiazem,Atrial Fibrillation,3.6
+user_54,Rythmol SR,Atrial Fibrillation,9.7
+user_54,Metoprolol,Atrial Fibrillation,2.7
+user_55,Lupron Depot,Prostate Cance,10.0
+user_55,Leuprolide,Prostate Cance,3.1
+user_55,Eligard,Prostate Cance,5.6
+user_56,Lumigan,Intraocular Hypertension,6.3
+user_56,Bimatoprost,Intraocular Hypertension,1.8
+user_56,Combigan,Intraocular Hypertension,10.0
+user_57,Clindamycin,Acne,8.7
+user_57,Acanya,Acne,10.0
+user_57,Ortho Tri-Cyclen,Acne,8.1
+user_57,Gildess Fe 1 / 20,Acne,8.2
+user_57,Spironolactone,Acne,8.5
+user_58,Cipro,Kidney Infections,9.6
+user_58,Levaquin,Kidney Infections,10.0
+user_58,Sulfamethoxazole / trimethoprim,Kidney Infections,6.6
+user_58,Ciprofloxacin,Kidney Infections,1.8
+user_58,Cephalexin,Kidney Infections,7.0
+user_58,Ketorolac,Postoperative Ocular Inflammation,1.0
+user_58,Amoxicillin / clavulanate,Kidney Infections,10.0
+user_59,Cryselle,15</span> users found this comment helpful.,10.0
+user_59,Imodium,Traveler's Diarrhea,10.0
+user_59,Toprol-XL,15</span> users found this comment helpful.,7.4
+user_59,Azo-Standard,15</span> users found this comment helpful.,7.3
+user_59,Contrave,15</span> users found this comment helpful.,5.6
+user_59,Viibryd,15</span> users found this comment helpful.,5.3
+user_60,Testosterone,Klinefelter Syndrome,10.0
+user_61,Hyaluronidase,Hypodermoclysis,9.6
+user_62,Calcium acetate,Hyperphosphatemia,8.1
+user_62,PhosLo,Hyperphosphatemia,7.4
+user_63,Acetazolamide,Mountain Sickness / Altitude Sickness,8.7
+user_63,Tapazole,Hyperthyroidism,9.8
+user_64,Imbruvica,Chronic Lymphocytic Leukemia,9.7
+user_64,Rituximab,Chronic Lymphocytic Leukemia,8.1
+user_64,Rituxan,Chronic Lymphocytic Leukemia,10.0
+user_64,Fludara,Chronic Lymphocytic Leukemia,5.6
+user_65,Rifampin,"Tuberculosis, Prophylaxis",9.8
+user_65,Rifadin,"Tuberculosis, Prophylaxis",9.8
+user_65,Isoniazid,"Tuberculosis, Prophylaxis",6.8
+user_66,Votrient,Renal Cell Carcinoma,9.0
+user_66,Everolimus,Renal Cell Carcinoma,7.2
+user_66,Pazopanib,Renal Cell Carcinoma,9.2
+user_66,Nivolumab,Renal Cell Carcinoma,1.0
+user_67,Doxy 100,"Lyme Disease, Neurologic",9.9
+user_67,Doxycycline,"Lyme Disease, Neurologic",9.0
+user_67,Doryx,"Lyme Disease, Neurologic",5.6
+user_68,Ethinyl estradiol / levonorgestrel,Premenstrual Syndrome,2.5
+user_68,Acetaminophen / caffeine / pyrilamine,Premenstrual Syndrome,4.8
+user_68,LoSeasonique,Premenstrual Syndrome,1.3
+user_69,Meclizine,Vertig,1.0
+user_70,Vigamox,Ophthalmic Surgery,1.0
+user_70,Moxifloxacin,Ophthalmic Surgery,9.5
+user_71,Adalimumab,Ulcerative Colitis,1.1
+user_71,Remicade,Ulcerative Colitis,7.5
+user_71,Lialda,Ulcerative Colitis,7.3
+user_71,Imuran,Ulcerative Colitis,1.0
+user_72,Deplin,lic Acid Deficiency,1.0
+user_72,L-methylfolate,lic Acid Deficiency,1.8
+user_73,Latanoprost,Intraocular Hypertension,9.8
+user_73,Xalatan,Intraocular Hypertension,9.6
+user_73,Timoptic,Intraocular Hypertension,4.9
+user_73,Bimatoprost,Intraocular Hypertension,1.5
+user_73,Lumigan,Intraocular Hypertension,7.2
+user_74,Mirtazapine,Post Traumatic Stress Disorde,10.0
+user_74,Amitriptyline,Post Traumatic Stress Disorde,10.0
+user_74,Sertraline,Post Traumatic Stress Disorde,8.9
+user_75,Denosumab,Giant Cell Tumor of Bone,10.0
+user_76,Metronidazole,Giardiasis,6.1
+user_76,Tindamax,Giardiasis,1.0
+user_76,Ganciclovir,Herpes Simplex Dendritic Keratitis,4.9
+user_76,Tinidazole,Giardiasis,9.6
+user_77,Flecainide,Paroxysmal Supraventricular Tachycardia,9.6
+user_77,Lexapro,33</span> users found this comment helpful.,8.4
+user_77,Diovan,33</span> users found this comment helpful.,10.0
+user_78,Megace,Endometrial Hyperplasia,5.1
+user_78,Megestrol,Endometrial Hyperplasia,1.4
+user_78,Nimodipine,Subarachnoid Hemorrhage,9.9
+user_79,Carbidopa / levodopa,Parkinson's Disease,6.6
+user_79,Selegiline,Parkinson's Disease,10.0
+user_79,Requip XL,Parkinson's Disease,3.2
+user_79,Rytary,Parkinson's Disease,4.4
+user_79,Carbidopa / entacapone / levodopa,Parkinson's Disease,1.3
+user_80,Arthrotec,55</span> users found this comment helpful.,7.3
+user_80,Mucinex,55</span> users found this comment helpful.,7.6
+user_81,Levothyroxine,"Hypothyroidism, After Thyroid Removal",2.9
+user_81,Thyroid desiccated,"Hypothyroidism, After Thyroid Removal",9.9
+user_81,Levoxyl,"Hypothyroidism, After Thyroid Removal",5.2
+user_82,Flecainide,Paroxysmal Supraventricular Tachycardia,9.3
+user_83,Egrifta,Lipodystrophy,7.9
+user_83,Tesamorelin,Lipodystrophy,6.9
+user_84,Hydrocortisone,Addison's Disease,9.7
+user_84,Hydrocortone,Addison's Disease,8.1
+user_84,Fludrocortisone,Addison's Disease,10.0
+user_84,Dexamethasone,Addison's Disease,10.0
+user_85,Amlodipine,Coronary Artery Disease,1.0
+user_85,Lisinopril,Coronary Artery Disease,1.8
+user_86,Dexamethasone,Cerebral Edema,7.8
+user_87,Colchicine,"Pseudogout, Prophylaxis",9.5
+user_88,Isosorbide mononitrate,Esophageal Spasm,10.0
+user_88,Neurontin,76</span> users found this comment helpful.,10.0
+user_89,Praziquantel,Schistosoma japonicum,3.1
+user_89,Decadron,Croup,8.4
+user_89,Biltricide,Schistosoma japonicum,2.7
+user_89,Dexamethasone,Croup,9.0
+user_90,Altretamine,Ovarian Cance,5.2
+user_90,Paclitaxel,Ovarian Cance,5.4
+user_90,Bevacizumab,Ovarian Cance,4.5
+user_90,Paraplatin,Ovarian Cance,7.5
+user_91,Pseudoephedrine,Not Listed / Othe,10.0
+user_91,Oxycodone,Not Listed / Othe,7.9
+user_91,Acetaminophen / phenylephrine,Not Listed / Othe,9.8
+user_91,Levonorgestrel,Not Listed / Othe,7.1
+user_91,Varenicline,Not Listed / Othe,6.5
+user_91,Diltiazem,Not Listed / Othe,8.0
+user_92,Baclofen,Chronic Spasticity,8.6
+user_92,Gablofen,Chronic Spasticity,8.7
+user_93,Sumatriptan,Cyclic Vomiting Syndrome,6.7
+user_93,Amitriptyline,Cyclic Vomiting Syndrome,9.8
+user_93,Elavil,Cyclic Vomiting Syndrome,8.7
+user_93,Stimate,von Willebrand's Disease,10.0
+user_94,Lamotrigine,Bipolar Disorde,6.8
+user_94,Olanzapine,Bipolar Disorde,8.3
+user_95,Mycophenolic acid,tic (mycophenolic acid),7.8
+user_95,Regadenoson,Radionuclide Myocardial Perfusion Study,1.6
+user_96,Salicylic acid,Warts,10.0
+user_96,Raloxifene,"Breast Cancer, Prevention",9.3
+user_96,Tamoxifen,"Breast Cancer, Prevention",7.9
+user_97,Clarithromycin,Pneumonia,5.1
+user_97,Moxifloxacin,Pneumonia,9.3
+user_97,Levaquin,Pneumonia,1.0
+user_97,Gemifloxacin,Pneumonia,1.0
+user_97,Levofloxacin,Pneumonia,2.0
+user_97,Ceftriaxone,Pneumonia,9.7
+user_98,Mirena,8</span> users found this comment helpful.,9.4
+user_98,Levora,8</span> users found this comment helpful.,3.3
+user_98,Amitriptyline,Cyclic Vomiting Syndrome,10.0
+user_99,Linezolid,Methicillin-Resistant Staphylococcus Aureus Infection,8.8
+user_99,Zyvox,Methicillin-Resistant Staphylococcus Aureus Infection,10.0
+user_99,Vancomycin,Methicillin-Resistant Staphylococcus Aureus Infection,9.5
+user_99,Phenytoin,Neurosurgery,7.9
+user_100,Mucinex,55</span> users found this comment helpful.,8.1
+user_100,Arthrotec,55</span> users found this comment helpful.,8.1
+user_101,Benadryl,Nausea/Vomiting,1.9
+user_101,Phenergan,Nausea/Vomiting,9.4
+user_101,Zofran,Nausea/Vomiting,10.0
+user_102,Tambocor,Wolff-Parkinson-White Syndrome,8.8
+user_102,Flecainide,Wolff-Parkinson-White Syndrome,9.6
+user_103,Relistor,"Constipation, Drug Induced",9.5
+user_103,Naloxegol,"Constipation, Drug Induced",1.8
+user_103,Movantik,"Constipation, Drug Induced",1.0
+user_104,Tretinoin,Photoaging of the Skin,9.8
+user_104,Ursodiol,Gallbladder Disease,9.8
+user_104,Atralin,Photoaging of the Skin,10.0
+user_104,Retin-A,Photoaging of the Skin,10.0
+user_105,Remicade,Juvenile Idiopathic Arthritis,9.7
+user_105,Actemra,Juvenile Idiopathic Arthritis,9.6
+user_105,Etanercept,Juvenile Idiopathic Arthritis,6.6
+user_105,Adalimumab,Juvenile Idiopathic Arthritis,10.0
+user_105,Humira,Juvenile Idiopathic Arthritis,8.6
+user_105,Enbrel,Juvenile Idiopathic Arthritis,9.8
+user_106,Colchicine,amilial Mediterranean Feve,10.0
+user_106,Colcrys,amilial Mediterranean Feve,8.4
+user_107,Gabapentin,Syringomyelia,5.5
+user_108,Celexa,Postpartum Depression,10.0
+user_108,Paxil,Postpartum Depression,8.0
+user_108,Zoloft,Postpartum Depression,9.5
+user_109,Esterified estrogens / methyltestosterone,Menopausal Disorders,10.0
+user_109,Sulfamethoxazole / trimethoprim,Infection Prophylaxis,7.2
+user_109,Bactrim DS,Infection Prophylaxis,7.7
+user_109,Estratest H.S.,Menopausal Disorders,10.0
+user_110,Lipitor,"High Cholesterol, Familial Homozygous",8.8
+user_110,Praluent,"High Cholesterol, Familial Homozygous",1.2
+user_110,Warfarin,"Pulmonary Embolism, First Event",8.3
+user_110,Repatha,"High Cholesterol, Familial Homozygous",10.0
+user_111,Mycophenolate mofetil,Myasthenia Gravis,9.5
+user_111,Pyridostigmine,Myasthenia Gravis,9.2
+user_111,Mestinon,Myasthenia Gravis,8.1
+user_111,CellCept,Myasthenia Gravis,9.4
+user_112,Albuterol,Bronchiectasis,1.2
+user_112,Doxycycline,Bronchiectasis,8.4
+user_112,ProAir RespiClick,Bronchiectasis,1.0
+user_112,Ventolin HFA,Bronchiectasis,9.4
+user_112,Salicylic acid,Warts,9.9
+user_113,Rituximab,cal Segmental Glomerulosclerosis,8.9
+user_113,Corticotropin,cal Segmental Glomerulosclerosis,9.0
+user_113,Rituxan,cal Segmental Glomerulosclerosis,9.2
+user_114,Neurontin,92</span> users found this comment helpful.,8.8
+user_115,Biltricide,Schistosoma japonicum,4.0
+user_115,Praziquantel,Schistosoma japonicum,3.6
+user_116,Permethrin,Scabies,9.0
+user_116,Pro-Den Rx,Prevention of Dental Caries,1.0
+user_116,Fluoride,Prevention of Dental Caries,1.0
+user_116,Ivermectin,Scabies,9.2
+user_117,Aranesp,Anemia Associated with Chronic Renal Failure,10.0
+user_117,Epoetin alfa,Anemia Associated with Chronic Renal Failure,8.3
+user_117,Ferrlecit,Anemia Associated with Chronic Renal Failure,5.6
+user_118,Etonogestrel,Birth Control,1.5
+user_118,Nexplanon,Birth Control,8.2
+user_118,Ethinyl estradiol / norgestimate,Birth Control,10.0
+user_118,Aviane,Birth Control,10.0
+user_118,Lutera,Birth Control,2.8
+user_118,Sprintec,Birth Control,7.4
+user_118,Falmina,Birth Control,10.0
+user_119,Clindamycin,Aspiration Pneumonia,10.0
+user_120,Azithromycin Dose Pack,Tonsillitis/Pharyngitis,10.0
+user_120,Azithromycin,Tonsillitis/Pharyngitis,6.0
+user_120,Phenol,Tonsillitis/Pharyngitis,2.9
+user_120,Omnicef,Tonsillitis/Pharyngitis,9.4
+user_120,Chloraseptic Sore Throat Spray,Tonsillitis/Pharyngitis,8.3
+user_121,Gabapentin,Hot Flashes,7.2
+user_121,Paroxetine,Hot Flashes,1.3
+user_121,Effexor XR,Hot Flashes,9.9
+user_121,Fluoxetine,Hot Flashes,9.8
+user_122,Progesterone,Progesterone Insufficiency,10.0
+user_122,Prednisone,Skin Rash,8.8
+user_122,Prometrium,Progesterone Insufficiency,9.7
+user_122,Diflorasone,Skin Rash,10.0
+user_123,Cyclobenzaprine,Chronic Myofascial Pain,1.0
+user_123,Naproxen,Chronic Myofascial Pain,2.8
+user_123,Naprosyn,Chronic Myofascial Pain,1.9
+user_123,Amitriptyline,Chronic Myofascial Pain,10.0
+user_124,Ortho Micronor,10</span> users found this comment helpful.,6.4
+user_124,Adderall,10</span> users found this comment helpful.,5.8
+user_124,Amnesteem,10</span> users found this comment helpful.,9.2
+user_125,Requip,Restless Legs Syndrome,6.5
+user_125,Pramipexole,Restless Legs Syndrome,10.0
+user_125,Ropinirole,Restless Legs Syndrome,7.7
+user_125,Ultram ER,Restless Legs Syndrome,2.7
+user_126,Dexamethasone,Dermatitis Herpeti,10.0
+user_126,Alphanine SD,Hemophilia B,9.8
+user_127,Condylox,Condylomata Acuminata,6.0
+user_127,Podofilox,Condylomata Acuminata,6.1
+user_127,Imatinib,Acute Lymphoblastic Leukemia,9.5
+user_127,Aldara,Condylomata Acuminata,1.5
+user_128,Avastin,Malignant Glioma,8.3
+user_128,Bevacizumab,Malignant Glioma,8.9
+user_129,AbobotulinumtoxinA,Cervical Dystonia,8.6
+user_129,OnabotulinumtoxinA,Cervical Dystonia,9.1
+user_129,Botox,Cervical Dystonia,8.9
+user_129,Baclofen,Cervical Dystonia,8.9
+user_130,Plan B,Emergency Contraception,1.2
+user_130,ella,Emergency Contraception,9.6
+user_130,Levonorgestrel,Emergency Contraception,10.0
+user_130,Plan B One-Step,Emergency Contraception,10.0
+user_131,Warfarin,"Pulmonary Embolism, Recurrent Event",10.0
+user_131,Rivaroxaban,"Pulmonary Embolism, Recurrent Event",9.8
+user_131,Xarelto,"Pulmonary Embolism, Recurrent Event",8.4
+user_132,Climara,Postmenopausal Symptoms,4.8
+user_132,Vivelle-Dot,Postmenopausal Symptoms,1.2
+user_132,Estradiol / norethindrone,Postmenopausal Symptoms,9.6
+user_132,Estradiol,Postmenopausal Symptoms,10.0
+user_132,Conjugated estrogens / medroxyprogesterone,Postmenopausal Symptoms,2.0
+user_133,Imiglucerase,Gaucher Disease,7.8
+user_133,Cerezyme,Gaucher Disease,9.0
+user_134,Tylenol with Codeine #3,Pain,1.3
+user_134,Vicodin,Pain,4.0
+user_134,Morphine / naltrexone,Pain,9.9
+user_134,Acetaminophen / oxycodone,Pain,9.6
+user_134,Elavil,Pain,7.6
+user_135,Metformin,min),10.0
+user_135,Linagliptin / metformin,min),2.3
+user_136,Tapazole,Hyperthyroidism,9.9
+user_136,Methimazole,Hyperthyroidism,4.2
+user_136,Pima,Hyperthyroidism,10.0
+user_137,Tretinoin,Acute Promyelocytic Leukemia,8.1
+user_137,Vesanoid,Acute Promyelocytic Leukemia,8.0
+user_137,Arsenic trioxide,Acute Promyelocytic Leukemia,8.4
+user_138,Ziprasidone,Autism,6.6
+user_138,Risperidone,Autism,9.5
+user_138,Risperdal,Autism,5.1
+user_139,Levothyroxine,Thyroid Suppression Test,1.5
+user_140,Dramamine,Motion Sickness,10.0
+user_140,Scopolamine,Motion Sickness,3.4
+user_141,Isoniazid,"Tuberculosis, Latent",9.4
+user_141,Rifampin,"Tuberculosis, Latent",7.4
+user_142,Carbamazepine,Cluster-Tic Syndrome,6.2
+user_143,Premarin Vaginal,Postmenopausal Symptoms,5.6
+user_143,Angeliq,Postmenopausal Symptoms,8.8
+user_143,Estradiol,Postmenopausal Symptoms,1.0
+user_143,Duavee,Postmenopausal Symptoms,9.9
+user_144,Abreva,Herpes Simplex,8.7
+user_144,Docosanol,Herpes Simplex,3.1
+user_144,Acyclovir,Herpes Simplex,10.0
+user_145,Plavix,110</span> users found this comment helpful.,8.0
+user_146,Gadoxetate disodium,Liver Magnetic Resonance Imaging,2.2
+user_146,Eovist,Liver Magnetic Resonance Imaging,9.8
+user_147,Bethanechol,Urinary Retention,6.9
+user_148,Tretinoin,Acute Promyelocytic Leukemia,7.8
+user_148,Arsenic trioxide,Acute Promyelocytic Leukemia,9.3
+user_148,Vesanoid,Acute Promyelocytic Leukemia,8.0
+user_148,Dexamethasone,Croup,9.9
+user_148,Decadron,Croup,8.4
+user_149,Pregabalin,Peripheral Neuropathy,3.1
+user_149,Neurontin,Peripheral Neuropathy,5.9
+user_149,Gabapentin,Peripheral Neuropathy,9.6
+user_149,Phenergan,Light Sedation,9.0
+user_150,Omnipaque 350,Body Imaging,6.8
+user_150,Iohexol,Body Imaging,7.0
+user_151,Ortho Tri-Cyclen Lo,3</span> users found this comment helpful.,10.0
+user_151,Microgestin Fe 1 / 20,3</span> users found this comment helpful.,10.0
+user_151,Latuda,3</span> users found this comment helpful.,1.6
+user_151,Tri-Sprintec,3</span> users found this comment helpful.,9.3
+user_151,Cymbalta,3</span> users found this comment helpful.,9.7
+user_151,Savella,3</span> users found this comment helpful.,7.4
+user_151,Xanax,3</span> users found this comment helpful.,8.8
+user_152,Azathioprine,Autoimmune Hepatitis,8.3
+user_152,Cyclophosphamide,Wegener's Granulomatosis,10.0
+user_152,Budesonide,Autoimmune Hepatitis,9.9
+user_153,Methotrexate,Neoplastic Diseases,6.9
+user_154,Amlodipine / valsartan,ge (amlodipine / valsartan),2.9
+user_155,Tamiflu,Avian Influenza,9.2
+user_155,Oseltamivir,Avian Influenza,8.4
+user_156,Testosterone,"Hypogonadism, Male",9.9
+user_156,Androderm,"Hypogonadism, Male",9.5
+user_156,AndroGel,"Hypogonadism, Male",1.0
+user_156,Axiron,"Hypogonadism, Male",10.0
+user_157,Topiramate,Migraine Prevention,1.0
+user_157,Elavil,Migraine Prevention,7.9
+user_158,Gabapentin,Transverse Myelitis,7.6
+user_159,Singulair,Asthma,1.2
+user_159,Montelukast,Asthma,5.0
+user_159,Prednisone,Asthma,8.4
+user_160,Coumadin,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,9.7
+user_160,Dermal filler,acial Lipoatrophy,9.9
+user_160,Warfarin,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,9.1
+user_161,Cetuximab,Colorectal Cance,9.6
+user_161,Xeloda,Colorectal Cance,9.3
+user_161,Capecitabine,Colorectal Cance,10.0
+user_161,Erbitux,Colorectal Cance,7.1
+user_161,Avastin,Colorectal Cance,9.7
+user_162,Anastrozole,Endometrial Cance,7.4
+user_162,Cozaar,61</span> users found this comment helpful.,8.6
+user_162,Megace,Endometrial Cance,9.7
+user_163,Duexis,NSAID-Induced Ulcer Prophylaxis,8.9
+user_163,Vimovo,NSAID-Induced Ulcer Prophylaxis,9.6
+user_163,Famotidine / ibuprofen,NSAID-Induced Ulcer Prophylaxis,7.3
+user_164,Procyclidine,Parkinsonism,9.6
+user_164,Dapsone,Linear IgA Disease,10.0
+user_165,Interferon beta-1a,Multiple Sclerosis,6.4
+user_165,Glatiramer,Multiple Sclerosis,10.0
+user_165,Zofran,Gastroenteritis,10.0
+user_165,Tysabri,Multiple Sclerosis,9.2
+user_165,Fingolimod,Multiple Sclerosis,10.0
+user_165,Tecfidera,Multiple Sclerosis,10.0
+user_165,Dimethyl fumarate,Multiple Sclerosis,1.0
+user_166,Minoxidil,Alopecia,10.0
+user_166,Quetiapine,Paranoid Disorde,9.7
+user_166,Spironolactone,Alopecia,10.0
+user_166,Olanzapine,Paranoid Disorde,10.0
+user_167,Naproxen,Tendonitis,3.7
+user_167,Meloxicam,Tendonitis,2.1
+user_167,Mobic,Tendonitis,9.2
+user_168,Ropinirole,Restless Legs Syndrome,7.2
+user_168,Gabapentin,Restless Legs Syndrome,10.0
+user_168,Rotigotine,Restless Legs Syndrome,10.0
+user_169,Cozaar,Diabetic Kidney Disease,7.5
+user_169,Clomiphene,Ovulation Induction,10.0
+user_169,Lisinopril,Diabetic Kidney Disease,10.0
+user_169,Clomid,Ovulation Induction,7.5
+user_170,Nilotinib,Chronic Myelogenous Leukemia,1.0
+user_170,Cytoxan,Chronic Myelogenous Leukemia,9.9
+user_170,Gleevec,Chronic Myelogenous Leukemia,4.0
+user_170,Timoptic,Intraocular Hypertension,3.6
+user_170,Lumigan,Intraocular Hypertension,7.0
+user_170,Imatinib,Chronic Myelogenous Leukemia,10.0
+user_171,Triamcinolone,Dermatitis,9.6
+user_171,Clobetasol,Dermatitis,9.0
+user_171,Alcortin A,Dermatitis,9.5
+user_172,Loperamide,"Diarrhea, Acute",9.9
+user_172,Motofen,"Diarrhea, Acute",9.9
+user_172,Imodium,"Diarrhea, Acute",9.3
+user_172,Imodium A-D,"Diarrhea, Acute",9.6
+user_173,Thyroid desiccated,TSH Suppression,9.8
+user_173,Mucinex,55</span> users found this comment helpful.,7.7
+user_173,Armour Thyroid,TSH Suppression,9.9
+user_174,Breo Ellipta,COPD,9.3
+user_174,Prednisone,COPD,9.5
+user_174,Symbicort,COPD,9.0
+user_175,Extina,Seborrheic Dermatitis,10.0
+user_175,Xolegel,Seborrheic Dermatitis,1.0
+user_175,Loprox,Seborrheic Dermatitis,7.7
+user_175,Nizoral Topical,Seborrheic Dermatitis,9.5
+user_175,Sulfacetamide sodium / sulfur,Seborrheic Dermatitis,8.4
+user_176,Sumatriptan,Cluster Headaches,10.0
+user_176,Caffeine / ergotamine,Cluster Headaches,8.7
+user_176,Verapamil,Cluster Headaches,10.0
+user_176,Imitrex,Cluster Headaches,9.4
+user_176,Tizanidine,Cluster Headaches,7.8
+user_177,Progesterone,Progesterone Insufficiency,7.5
+user_177,Prometrium,Progesterone Insufficiency,7.9
+user_177,Clarithromycin,Pertussis,6.1
+user_178,Donnatal,Enterocolitis,10.0
+user_178,Librax,Enterocolitis,9.1
+user_178,Chlordiazepoxide / clidinium,Enterocolitis,10.0
+user_178,Tranexamic acid,Bleeding Disorde,1.0
+user_179,Nadolol,Esophageal Variceal Hemorrhage Prophylaxis,9.8
+user_180,Nardil,27</span> users found this comment helpful.,9.8
+user_180,Dulcolax,27</span> users found this comment helpful.,1.3
+user_180,Premarin,27</span> users found this comment helpful.,9.1
+user_181,Gammagard,Primary Immunodeficiency Syndrome,6.4
+user_181,Vivaglobin,Primary Immunodeficiency Syndrome,9.2
+user_181,Immune globulin intravenous,Primary Immunodeficiency Syndrome,10.0
+user_182,Itraconazole,Histoplasmosis,10.0
+user_182,Spironolactone,Primary Hyperaldosteronism Diagnosis,10.0
+user_183,Junel Fe 1 / 20,Gonadotropin Inhibition,2.4
+user_183,Avastin,Malignant Glioma,9.1
+user_184,Capex,Atopic Dermatitis,9.6
+user_184,Eucrisa,Atopic Dermatitis,1.6
+user_184,Naftifine,Tinea Pedis,10.0
+user_184,Mometasone,Atopic Dermatitis,9.6
+user_185,Duloxetine,ibromyalgia,10.0
+user_185,Flexeril,ibromyalgia,8.9
+user_185,Savella,ibromyalgia,4.8
+user_185,Lyrica,ibromyalgia,1.0
+user_186,Paxil,Social Anxiety Disorde,7.7
+user_186,Sertraline,Social Anxiety Disorde,9.1
+user_186,Venlafaxine,Social Anxiety Disorde,10.0
+user_186,Zoloft,Social Anxiety Disorde,8.3
+user_187,Clindamycin,Peritonitis,10.0
+user_187,Fluvoxamine,Anorexia/Feeding Problems,8.3
+user_188,Drixoral Cold and Allergy,Nasal Congestion,9.4
+user_188,Pseudoephedrine,Nasal Congestion,10.0
+user_188,Xylometazoline,Nasal Congestion,1.2
+user_188,Loratadine / pseudoephedrine,Nasal Congestion,9.4
+user_188,Sodium chloride,Nasal Congestion,8.9
+user_189,Topiramate,Migraine Prevention,6.0
+user_189,Topamax,Migraine Prevention,8.4
+user_189,Vitamin B2,Migraine Prevention,1.0
+user_189,Amitriptyline,Migraine Prevention,9.6
+user_189,Elavil,Migraine Prevention,4.5
+user_190,Movantik,"Constipation, Drug Induced",4.9
+user_190,Lubiprostone,"Constipation, Drug Induced",7.0
+user_190,Naloxegol,"Constipation, Drug Induced",2.2
+user_190,Methylnaltrexone,"Constipation, Drug Induced",9.4
+user_191,Vedolizumab,Ulcerative Colitis,6.3
+user_191,Adalimumab,Ulcerative Colitis,1.0
+user_191,Remicade,Ulcerative Colitis,1.0
+user_191,Budesonide,Ulcerative Colitis,10.0
+user_192,Nexavar,Hepatocellular Carcinoma,7.1
+user_192,Sorafenib,Hepatocellular Carcinoma,3.2
+user_193,Xiaflex,Dupuytren's contracture,9.1
+user_193,Collagenase clostridium histolyticum,Dupuytren's contracture,10.0
+user_194,Mucinex,Cough,7.2
+user_194,Benzonatate,Cough,1.7
+user_194,Delsym,Cough,6.0
+user_194,Codeine / promethazine,Cough,10.0
+user_195,Zofran,Nausea/Vomiting,9.8
+user_195,Lorazepam,Nausea/Vomiting,10.0
+user_195,Ondansetron,Nausea/Vomiting,7.4
+user_196,Pregabalin,Neuralgia,10.0
+user_196,Baclofen,Neuralgia,1.4
+user_196,Lyrica,Neuralgia,8.9
+user_197,Desmopressin,Diabetes Insipidus,9.4
+user_197,DDAVP,Diabetes Insipidus,9.7
+user_198,Remeron,40</span> users found this comment helpful.,8.1
+user_198,Griseofulvin,Tinea Barbae,5.4
+user_199,Pseudoephedrine,Nasal Congestion,9.8
+user_199,Mucinex Sinus-Max Full Force,Nasal Congestion,10.0
+user_199,Vicks Sinex Nasal Spray (old formulation),Nasal Congestion,8.7
+user_199,Brompheniramine / pseudoephedrine,Nasal Congestion,8.7
+user_199,Naphazoline,Nasal Congestion,9.7
+user_199,Oxymetazoline,Nasal Congestion,7.9
+user_199,Afrin,Nasal Congestion,1.2
+user_199,Loratadine / pseudoephedrine,Nasal Congestion,6.0
+user_200,Linaclotide,Irritable Bowel Syndrome,7.6
+user_200,Amitriptyline,Irritable Bowel Syndrome,8.8
+user_200,Eluxadoline,Irritable Bowel Syndrome,6.2
+user_200,Linzess,Irritable Bowel Syndrome,10.0
+user_201,Pramipexole,Periodic Limb Movement Disorde,9.4
+user_201,Ropinirole,Periodic Limb Movement Disorde,1.0
+user_202,Soma,Nocturnal Leg Cramps,9.7
+user_202,Qualaquin,Nocturnal Leg Cramps,10.0
+user_202,Quinine,Nocturnal Leg Cramps,10.0
+user_202,Carisoprodol,Nocturnal Leg Cramps,9.9
+user_203,Cyclobenzaprine,t Pac with Cyclobenzaprine (cyclobenzaprine),8.1
+user_204,Lansoprazole,Aspiration Pneumonia,5.3
+user_204,Amoxicillin / clavulanate,Aspiration Pneumonia,9.8
+user_204,Clindamycin,Aspiration Pneumonia,9.5
+user_205,Vortioxetine,Major Depressive Disorde,7.4
+user_205,Zoloft,Major Depressive Disorde,10.0
+user_205,Trintellix,Major Depressive Disorde,2.0
+user_206,Bystolic,High Blood Pressure,1.0
+user_206,Lisinopril,High Blood Pressure,8.3
+user_206,Edarbyclor,High Blood Pressure,7.0
+user_206,Amlodipine,High Blood Pressure,7.0
+user_207,Enbrel,Still's Disease,9.5
+user_207,Anakinra,Still's Disease,8.3
+user_207,Plavix,110</span> users found this comment helpful.,9.0
+user_207,Etanercept,Still's Disease,9.2
+user_208,Econazole,Tinea Corporis,1.4
+user_208,Ketoconazole,Tinea Corporis,1.2
+user_209,Atripla,HIV Infection,3.3
+user_209,Cobicistat / elvitegravir / emtricitabine / tenofovir,HIV Infection,9.7
+user_209,Efavirenz / emtricitabine / tenofovir,HIV Infection,10.0
+user_210,Azathioprine,Renal Transplant,10.0
+user_210,Imuran,Renal Transplant,10.0
+user_211,Bacitracin / neomycin / polymyxin b,"Conjunctivitis, Bacterial",10.0
+user_211,Dexamethasone / tobramycin,"Conjunctivitis, Bacterial",8.8
+user_211,Besifloxacin,"Conjunctivitis, Bacterial",5.7
+user_211,Zylet,"Conjunctivitis, Bacterial",10.0
+user_211,Erythromycin,"Conjunctivitis, Bacterial",8.1
+user_212,Spiriva,8</span> users found this comment helpful.,2.5
+user_212,Requip,8</span> users found this comment helpful.,1.0
+user_212,Nasacort,8</span> users found this comment helpful.,8.7
+user_213,Vitamin B12,45</span> users found this comment helpful.,10.0
+user_213,Depo-Provera,45</span> users found this comment helpful.,1.0
+user_214,Nitrofurantoin,Urinary Tract Infection,2.9
+user_214,Sulfamethoxazole / trimethoprim,Urinary Tract Infection,3.9
+user_214,Rocephin,Urinary Tract Infection,7.8
+user_215,Sucralfate,Stress Ulcer Prophylaxis,10.0
+user_215,Pantoprazole,Stress Ulcer Prophylaxis,1.0
+user_216,Xarelto,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,5.5
+user_216,Enoxaparin,Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,9.4
+user_217,Metronidazole,Bacterial Vaginitis,5.1
+user_218,Hepatitis b adult vaccine,Hepatitis B Prevention,1.0
+user_219,Ritalin,95</span> users found this comment helpful.,9.4
+user_220,Diclofenac / misoprostol,Sciatica,6.8
+user_220,Diclofenac,Sciatica,5.7
+user_220,Cyclobenzaprine,Sciatica,10.0
+user_221,Clonazepam,Night Terrors,9.4
+user_221,St. john's wort,Night Terrors,9.4
+user_221,Klonopin,Night Terrors,8.8
+user_222,Riluzole,Amyotrophic Lateral Sclerosis,5.2
+user_223,Loteprednol,Postoperative Ocular Inflammation,10.0
+user_223,Difluprednate,Postoperative Ocular Inflammation,5.7
+user_223,Nepafenac,Postoperative Ocular Inflammation,1.0
+user_223,Prednisolone,Postoperative Ocular Inflammation,1.0
+user_223,Prolensa,Postoperative Ocular Inflammation,9.7
+user_224,Imatinib,Myeloproliferative Disorders,9.4
+user_225,Eflornithine,Hirsutism,10.0
+user_225,Vaniqa,Hirsutism,9.9
+user_225,Fluconazole,Tinea Cruris,8.7
+user_226,Aripiprazole,Agitated State,10.0
+user_226,Vitamin e,Tardive Dyskinesia,1.0
+user_226,Abilify,Agitated State,8.1
+user_227,Fenofibrate,Hyperlipoproteinemia,1.0
+user_227,Niacin,Hyperlipoproteinemia,9.8
+user_227,Niaspan,Hyperlipoproteinemia,9.1
+user_227,Cholestyramine,Hyperlipoproteinemia,9.7
+user_227,Pantoprazole,Peptic Ulce,9.6
+user_227,TriCor,Hyperlipoproteinemia,4.2
+user_227,Librax,Peptic Ulce,7.9
+user_228,Metronidazole,Pelvic Inflammatory Disease,1.0
+user_228,Ceftriaxone,Pelvic Inflammatory Disease,2.8
+user_229,Levothyroxine,Thyroid Suppression Test,1.0
+user_230,Gabapentin,Anxiety,8.9
+user_230,Vistaril,Anxiety,8.4
+user_230,Escitalopram,Anxiety,1.0
+user_231,Arthrotec,55</span> users found this comment helpful.,7.7
+user_231,Mucinex,55</span> users found this comment helpful.,7.2
+user_232,Tadalafil,Erectile Dysfunction,6.8
+user_232,Cialis,Erectile Dysfunction,10.0
+user_232,Sildenafil,Erectile Dysfunction,10.0
+user_233,Zometa,Hypercalcemia of Malignancy,7.7
+user_233,Nilstat,Oral Thrush,9.9
+user_233,Zoledronic acid,Hypercalcemia of Malignancy,8.6
+user_233,Clotrimazole,Oral Thrush,5.6
+user_233,Nystatin,Oral Thrush,8.1
+user_234,Loestrin 24 Fe,Abnormal Uterine Bleeding,2.1
+user_234,Tri-Sprintec,Abnormal Uterine Bleeding,4.0
+user_234,Depo-Provera,Abnormal Uterine Bleeding,1.0
+user_234,Aygestin,Abnormal Uterine Bleeding,1.1
+user_234,Mirena,Abnormal Uterine Bleeding,1.3
+user_234,Seasonique,Abnormal Uterine Bleeding,4.5
+user_235,Xanax,31</span> users found this comment helpful.,9.7
+user_235,Flexeril,31</span> users found this comment helpful.,8.8
+user_235,Rogaine Men's Extra Strength,31</span> users found this comment helpful.,1.0
+user_236,Acyclovir,Cold Sores,6.3
+user_236,Penciclovir,Cold Sores,10.0
+user_236,Valacyclovir,Cold Sores,9.6
+user_236,Zovirax Ointment,Cold Sores,10.0
+user_236,Zovirax Cream,Cold Sores,10.0
+user_237,Daliresp,COPD,5.0
+user_237,Umeclidinium / vilanterol,COPD,10.0
+user_237,Symbicort,COPD,9.7
+user_237,Leuprolide,Prostate Cance,9.3
+user_237,Fluticasone / vilanterol,COPD,10.0
+user_238,Lurasidone,Schizophrenia,8.6
+user_238,Abilify,Schizophrenia,1.0
+user_238,Ziprasidone,Schizophrenia,8.8
+user_239,Dexlansoprazole,GERD,9.7
+user_239,Axid,GERD,10.0
+user_239,Prilosec,GERD,1.5
+user_239,Prevacid,GERD,9.4
+user_239,Reglan,GERD,2.3
+user_240,Levothyroxine,Hashimoto's disease,9.9
+user_240,Thyroid desiccated,Hashimoto's disease,8.6
+user_240,Armour Thyroid,Hashimoto's disease,2.3
+user_240,Levoxyl,Hashimoto's disease,9.4
+user_241,Vancomycin,Clostridial Infection,1.0
+user_241,Fidaxomicin,Clostridial Infection,4.3
+user_241,Metronidazole,Clostridial Infection,4.5
+user_242,Denosumab,Giant Cell Tumor of Bone,10.0
+user_243,Anastrozole,Endometrial Cance,10.0
+user_243,Megestrol,Endometrial Cance,10.0
+user_243,Arimidex,Endometrial Cance,8.3
+user_244,Hydroxychloroquine,Dermatomyositis,8.5
+user_244,Levothyroxine,TSH Suppression,10.0
+user_244,Thyroid desiccated,TSH Suppression,9.8
+user_245,Lipitor,Prevention of Cardiovascular Disease,1.6
+user_245,Atorvastatin,Prevention of Cardiovascular Disease,2.1
+user_245,Fluocinolone,Diabetic Macular Edema,9.9
+user_246,Zofran ODT,"Nausea/Vomiting, Postoperative",10.0
+user_246,Metoclopramide,"Nausea/Vomiting, Postoperative",9.4
+user_246,Aloxi,"Nausea/Vomiting, Postoperative",10.0
+user_246,Emend,"Nausea/Vomiting, Postoperative",9.3
+user_247,Amitriptyline,Migraine Prevention,10.0
+user_247,Topiramate,Migraine Prevention,10.0
+user_247,Topamax,Migraine Prevention,8.9
+user_247,Zonisamide,Migraine Prevention,9.1
+user_248,Levitra,Erectile Dysfunction,10.0
+user_248,Tadalafil,Erectile Dysfunction,10.0
+user_248,Stendra,Erectile Dysfunction,3.9
+user_248,Vardenafil,Erectile Dysfunction,8.6
+user_248,Cialis,Erectile Dysfunction,10.0
+user_248,Sildenafil,Erectile Dysfunction,9.7
+user_249,Azithromycin,Chlamydia Infection,9.2
+user_249,Catapres,Opiate Withdrawal,10.0
+user_249,Doxycycline,Chlamydia Infection,4.8
+user_249,Clonidine,Opiate Withdrawal,9.9
+user_249,Methadone,Opiate Withdrawal,9.7
+user_250,Cipro,Kidney Infections,10.0
+user_250,Septra DS,Kidney Infections,9.6
+user_250,Ciprofloxacin,Kidney Infections,2.7
+user_250,Bactrim,Kidney Infections,10.0
+user_251,Cyclobenzaprine,Sciatica,2.6
+user_251,Nabumetone,Sciatica,8.4
+user_251,Voltaren,Sciatica,8.9
+user_251,Flexeril,Sciatica,1.8
+user_252,Clomiphene,Ovulation Induction,8.1
+user_252,Clomid,Ovulation Induction,8.9
+user_253,Beyaz,5</span> users found this comment helpful.,5.6
+user_253,Levora,5</span> users found this comment helpful.,8.7
+user_253,Ortho Tri-Cyclen,5</span> users found this comment helpful.,7.8
+user_253,Thorazine,5</span> users found this comment helpful.,7.7
+user_253,Ortho Tri-Cyclen Lo,5</span> users found this comment helpful.,9.0
+user_254,Epclusa,Hepatitis C,9.2
+user_254,Ledipasvir / sofosbuvir,Hepatitis C,9.4
+user_254,Sofosbuvir,Hepatitis C,1.0
+user_254,Harvoni,Hepatitis C,9.9
+user_255,Zepatier,Hepatitis C,8.4
+user_255,Telaprevir,Hepatitis C,6.7
+user_255,Sofosbuvir,Hepatitis C,8.2
+user_256,Mirabegron,Overactive Bladde,1.5
+user_256,VESIcare,Overactive Bladde,9.2
+user_257,Xanax,Tinnitus,7.6
+user_257,Alprazolam,Tinnitus,5.2
+user_258,Prednisone,Gouty Arthritis,10.0
+user_258,Probenecid and Colchicine,Gouty Arthritis,4.2
+user_259,Rivaroxaban,"Deep Vein Thrombosis, Prophylaxis",1.7
+user_259,Apixaban,"Deep Vein Thrombosis, Prophylaxis",4.4
+user_259,Xarelto,"Deep Vein Thrombosis, Prophylaxis",3.0
+user_259,Methotrexate,Ectopic Pregnancy,10.0
+user_259,Arixtra,"Deep Vein Thrombosis, Prophylaxis",7.9
+user_260,Brimonidine / timolol,Glaucoma,1.8
+user_260,Diamox,Glaucoma,7.5
+user_261,Urso,Biliary Cirrhosis,9.6
+user_261,Ursodiol,Biliary Cirrhosis,10.0
+user_262,Esomeprazole,NSAID-Induced Gastric Ulce,9.7
+user_262,Nexium,NSAID-Induced Gastric Ulce,9.1
+user_262,Prevacid,NSAID-Induced Gastric Ulce,8.2
+user_263,Ofloxacin,Campylobacter Gastroenteritis,8.8
+user_263,Neurontin,92</span> users found this comment helpful.,8.9
+user_263,Floxin,Campylobacter Gastroenteritis,9.7
+user_264,Rituxan,Non-Hodgkin's Lymphoma,10.0
+user_264,Rituximab,Non-Hodgkin's Lymphoma,9.5
+user_264,Treanda,Non-Hodgkin's Lymphoma,10.0
+user_265,Methotrexate,Scleroderma,1.0
+user_265,Cholestyramine,Pruritus of Partial Biliary Obstruction,10.0
+user_266,Methylprednisolone,Inflammatory Conditions,10.0
+user_266,Meloxicam,Inflammatory Conditions,4.0
+user_266,Solu-Medrol,Inflammatory Conditions,10.0
+user_267,Metronidazole,Bacterial Vaginitis,4.8
+user_267,MetroGel-Vaginal,Bacterial Vaginitis,4.4
+user_268,Benlysta,Systemic Lupus Erythematosus,8.7
+user_268,Belimumab,Systemic Lupus Erythematosus,5.5
+user_268,Plaquenil,Systemic Lupus Erythematosus,1.0
+user_268,Hydroxychloroquine,Systemic Lupus Erythematosus,9.5
+user_268,Triamcinolone,Systemic Lupus Erythematosus,9.2
+user_269,Cyanocobalamin,Vitamin B12 Deficiency,9.9
+user_269,CaloMist,Vitamin B12 Deficiency,10.0
+user_269,Vitamin B12,Vitamin B12 Deficiency,10.0
+user_270,Imiquimod,Human Papilloma Virus,10.0
+user_271,Bactrim DS,Bacterial Skin Infection,8.0
+user_271,Septra,Bacterial Skin Infection,10.0
+user_271,Bactrim,Bacterial Skin Infection,9.7
+user_271,Sulfamethoxazole / trimethoprim,Bacterial Skin Infection,1.9
+user_272,"Influenza virus vaccine, inactivated",Influenza Prophylaxis,9.6
+user_272,FluMist,Influenza Prophylaxis,6.9
+user_272,Oseltamivir,Influenza Prophylaxis,8.0
+user_272,Tamiflu,Influenza Prophylaxis,1.0
+user_272,"Influenza virus vaccine, live, trivalent",Influenza Prophylaxis,7.7
+user_272,Imatinib,Myeloproliferative Disorders,9.8
+user_273,Ethinyl estradiol / levonorgestrel,Abnormal Uterine Bleeding,2.5
+user_273,Medroxyprogesterone,Abnormal Uterine Bleeding,1.3
+user_273,Provera,Abnormal Uterine Bleeding,9.3
+user_273,Nora-Be,Abnormal Uterine Bleeding,9.9
+user_273,Mirena,Abnormal Uterine Bleeding,8.8
+user_273,Depo-Provera,Abnormal Uterine Bleeding,1.5
+user_274,Cyclobenzaprine,Migraine,2.3
+user_274,Sumatriptan,Migraine,10.0
+user_274,Acetaminophen / aspirin / caffeine,Migraine,9.0
+user_274,Fiorinal,Migraine,10.0
+user_274,Naproxen / sumatriptan,Migraine,10.0
+user_275,Imiquimod,Keratosis,9.8
+user_275,Zyclara,Keratosis,9.1
+user_276,OnabotulinumtoxinA,Strabismus,10.0
+user_277,Creon,Chronic Pancreatitis,9.3
+user_277,Pancrelipase,Chronic Pancreatitis,10.0
+user_277,Lansoprazole,Aspiration Pneumonia,5.0
+user_278,Silenor,25</span> users found this comment helpful.,10.0
+user_278,Viagra,25</span> users found this comment helpful.,9.9
+user_278,Arthrotec,25</span> users found this comment helpful.,9.7
+user_278,Lo Loestrin Fe,25</span> users found this comment helpful.,8.7
+user_278,Junel Fe 1 / 20,25</span> users found this comment helpful.,8.6
+user_278,Lescol,25</span> users found this comment helpful.,8.8
+user_278,Itraconazole,Sporotrichosis,7.7
+user_279,Hydroxyurea,"Anemia, Sickle Cell",9.7
+user_279,Cyanocobalamin,B12 Nutritional Deficiency,9.6
+user_279,Vitamin B12,B12 Nutritional Deficiency,9.7
+user_280,Coumadin,"Deep Vein Thrombosis, First Event",9.3
+user_280,Warfarin,"Deep Vein Thrombosis, First Event",8.2
+user_280,Albendazole,Cutaneous Larva Migrans,8.9
+user_281,Enbrel,Juvenile Rheumatoid Arthritis,7.8
+user_281,Etodolac,Juvenile Rheumatoid Arthritis,9.6
+user_281,Sulindac,Juvenile Rheumatoid Arthritis,10.0
+user_281,Etanercept,Juvenile Rheumatoid Arthritis,9.3
+user_282,Arthrotec,25</span> users found this comment helpful.,9.0
+user_282,Viagra,25</span> users found this comment helpful.,10.0
+user_282,Silenor,25</span> users found this comment helpful.,9.5
+user_282,Lo Loestrin Fe,25</span> users found this comment helpful.,8.2
+user_283,Hydroxyzine,Interstitial Cystitis,8.8
+user_283,Elmiron,Interstitial Cystitis,8.4
+user_283,Pentosan polysulfate sodium,Interstitial Cystitis,9.8
+user_283,Atarax,Interstitial Cystitis,9.0
+user_284,Kerydin,"Onychomycosis, Toenail",9.5
+user_284,Efinaconazole,"Onychomycosis, Toenail",10.0
+user_284,Terbinafine,"Onychomycosis, Toenail",5.2
+user_285,Diazepam,Tetanus,5.8
+user_285,Valium,Tetanus,5.9
+user_286,Estratest H.S.,Menopausal Disorders,9.7
+user_286,Vidaza,Myelodysplastic Syndrome,9.4
+user_286,Azacitidine,Myelodysplastic Syndrome,10.0
+user_287,Erythromycin,"Conjunctivitis, Bacterial",7.7
+user_287,Bacitracin / polymyxin b,"Conjunctivitis, Bacterial",10.0
+user_287,Vigamox,"Conjunctivitis, Bacterial",6.6
+user_287,Platinol,Brain Tum,10.0
+user_287,Hydrocortisone / neomycin / polymyxin b,"Conjunctivitis, Bacterial",7.6
+user_287,Moxifloxacin,"Conjunctivitis, Bacterial",9.6
+user_287,Besivance,"Conjunctivitis, Bacterial",10.0
+user_288,Sertraline,Dissociative Identity Disorde,9.5
+user_289,Zegerid,9</span> users found this comment helpful.,5.7
+user_289,Xanax,9</span> users found this comment helpful.,1.0
+user_289,Estring,9</span> users found this comment helpful.,8.1
+user_290,OnabotulinumtoxinA,Overactive Bladde,2.3
+user_290,Mirabegron,Overactive Bladde,9.9
+user_290,Myrbetriq,Overactive Bladde,10.0
+user_291,Valacyclovir,Cold Sores,1.6
+user_291,Tranexamic acid,Menorrhagia,9.7
+user_292,Norethindrone,Abnormal Uterine Bleeding,4.7
+user_292,Junel Fe 1 / 20,Abnormal Uterine Bleeding,1.0
+user_292,Ethinyl estradiol / levonorgestrel,Abnormal Uterine Bleeding,1.0
+user_292,Ethinyl estradiol / norgestimate,Abnormal Uterine Bleeding,2.3
+user_292,Medroxyprogesterone,Abnormal Uterine Bleeding,1.0
+user_293,Tranexamic acid,actor IX Deficiency,8.3
+user_293,BeneFix,actor IX Deficiency,6.4
+user_293,Coagulation factor ix,actor IX Deficiency,5.9
+user_294,Isoxsuprine,Cerebrovascular Insufficiency,10.0
+user_295,Remeron SolTab,29</span> users found this comment helpful.,9.0
+user_295,Contrave,29</span> users found this comment helpful.,9.9
+user_295,Prempro,29</span> users found this comment helpful.,1.0
+user_296,Soma,62</span> users found this comment helpful.,4.6
+user_297,Hydromet,5</span> users found this comment helpful.,8.9
+user_297,Diprivan,5</span> users found this comment helpful.,9.5
+user_297,Lyrica,5</span> users found this comment helpful.,8.0
+user_297,Geodon,5</span> users found this comment helpful.,6.2
+user_297,Beyaz,5</span> users found this comment helpful.,4.8
+user_297,Adderall XR,5</span> users found this comment helpful.,8.6
+user_297,Fleet Bisacodyl,5</span> users found this comment helpful.,10.0
+user_297,Strattera,5</span> users found this comment helpful.,10.0
+user_298,Citalopram,Anxiety and Stress,8.4
+user_298,Prozac,Anxiety and Stress,9.7
+user_298,Celexa,Anxiety and Stress,10.0
+user_299,Femara,"Breast Cancer, Adjuvant",10.0
+user_299,Letrozole,"Breast Cancer, Adjuvant",8.9
+user_299,Leuprolide,"Breast Cancer, Adjuvant",1.9
+user_300,Enalapril,Hypertensive Emergency,8.6
+user_300,Hydralazine,Hypertensive Emergency,9.1
+user_300,Clonidine,Hypertensive Emergency,10.0
+user_300,Nifedipine,Hypertensive Emergency,8.5
+user_301,Lamictal,9</span> users found this comment helpful.,6.2
+user_301,Xanax,9</span> users found this comment helpful.,1.4
+user_301,Loestrin 24 Fe,9</span> users found this comment helpful.,9.7
+user_301,Provigil,9</span> users found this comment helpful.,1.2
+user_301,Estring,9</span> users found this comment helpful.,8.4
+user_302,Baclofen,Cerebral Spasticity,9.5
+user_302,Gablofen,Cerebral Spasticity,1.0
+user_303,Xanax,3</span> users found this comment helpful.,9.3
+user_303,Augmentin,3</span> users found this comment helpful.,5.9
+user_303,LoSeasonique,3</span> users found this comment helpful.,3.7
+user_303,Levora,3</span> users found this comment helpful.,3.5
+user_303,Chantix,3</span> users found this comment helpful.,10.0
+user_303,Vyvanse,3</span> users found this comment helpful.,7.5
+user_303,Tazorac,3</span> users found this comment helpful.,1.9
+user_303,Seroquel,3</span> users found this comment helpful.,9.5
+user_304,Tafluprost,Intraocular Hypertension,8.4
+user_304,Xalatan,Intraocular Hypertension,9.7
+user_304,Bimatoprost,Intraocular Hypertension,7.1
+user_304,Combigan,Intraocular Hypertension,9.9
+user_304,Efudex,146</span> users found this comment helpful.,9.0
+user_304,Latanoprost,Intraocular Hypertension,5.3
+user_305,Colesevelam,"Hyperlipoproteinemia Type IIa, Elevated LDL",7.6
+user_305,Cholestyramine,"Hyperlipoproteinemia Type IIa, Elevated LDL",6.3
+user_305,Welchol,"Hyperlipoproteinemia Type IIa, Elevated LDL",7.0
+user_305,Pravastatin,"Hyperlipoproteinemia Type IIa, Elevated LDL",1.1
+user_305,Fenofibrate,"Hyperlipoproteinemia Type IIa, Elevated LDL",9.1
+user_306,Deplin,32</span> users found this comment helpful.,9.2
+user_306,Testopel,32</span> users found this comment helpful.,9.7
+user_306,Lamictal,32</span> users found this comment helpful.,10.0
+user_307,Methylprednisolone,Inflammatory Conditions,7.0
+user_307,Mobic,Inflammatory Conditions,7.7
+user_307,Prednisolone,Inflammatory Conditions,4.8
+user_307,Meloxicam,Inflammatory Conditions,1.0
+user_307,Dexamethasone,Inflammatory Conditions,2.8
+user_308,Elavil,Somatoform Pain Disorde,10.0
+user_308,Cyanocobalamin,Schilling Test,9.4
+user_309,Hepatitis b adult vaccine,Hepatitis B Prevention,1.0
+user_310,Vascepa,Hypertriglyceridemia,1.6
+user_310,Icosapent,Hypertriglyceridemia,10.0
+user_310,Omega-3 polyunsaturated fatty acids,Hypertriglyceridemia,1.0
+user_311,Lifitegrast,Dry Eye Disease,10.0
+user_311,Xiidra,Dry Eye Disease,7.2
+user_312,Azathioprine,"Crohn's Disease, Acute",7.2
+user_312,Remicade,"Crohn's Disease, Acute",5.6
+user_312,Infliximab,"Crohn's Disease, Acute",1.1
+user_312,Humira,"Crohn's Disease, Acute",3.6
+user_312,Rexulti,47</span> users found this comment helpful.,9.7
+user_312,Entocort EC,"Crohn's Disease, Acute",9.3
+user_312,Flagyl,"Crohn's Disease, Acute",9.0
+user_313,Efudex,Skin Cance,10.0
+user_313,Crestor,Atherosclerosis,8.2
+user_313,Carac,Skin Cance,10.0
+user_313,Fluorouracil,Skin Cance,8.3
+user_314,Amitriptyline,Neurotic Depression,10.0
+user_315,Propranolol,mance Anxiety,10.0
+user_316,Vancomycin,Sepsis,2.1
+user_317,Deplin,41</span> users found this comment helpful.,9.9
+user_317,Exalgo,41</span> users found this comment helpful.,7.9
+user_317,Viibryd,41</span> users found this comment helpful.,9.2
+user_317,Soma,41</span> users found this comment helpful.,9.3
+user_318,Pancrelipase,Pancreatic Exocrine Dysfunction,8.3
+user_318,Creon,Pancreatic Exocrine Dysfunction,1.0
+user_319,Sulfamethoxazole / trimethoprim,Kidney Infections,8.1
+user_319,Ceftriaxone,Kidney Infections,9.5
+user_319,Bactrim,Kidney Infections,10.0
+user_319,Cephalexin,Kidney Infections,10.0
+user_320,Humatin,Dientamoeba fragilis,1.2
+user_320,Paromomycin,Dientamoeba fragilis,2.1
+user_321,Omeprazole,GERD,9.6
+user_321,Kapidex,GERD,9.2
+user_321,Sucralfate,GERD,8.5
+user_321,Neurontin,Trigeminal Neuralgia,9.0
+user_321,Dexlansoprazole,GERD,3.0
+user_321,Topiramate,Trigeminal Neuralgia,10.0
+user_322,Amitriptyline,Anxiety and Stress,1.0
+user_322,Paxil,Anxiety and Stress,5.4
+user_322,Citalopram,Anxiety and Stress,7.4
+user_322,Remicade,"Crohn's Disease, Maintenance",7.8
+user_323,Ergocalciferol,Vitamin D Deficiency,10.0
+user_323,Vitamin D2,Vitamin D Deficiency,10.0
+user_324,Amoxicillin / clarithromycin / lansoprazole,Helicobacter Pylori Infection,10.0
+user_324,Prevpac,Helicobacter Pylori Infection,7.2
+user_324,Pylera,Helicobacter Pylori Infection,8.6
+user_324,Bismuth subcitrate potassium / metronidazole / tetracycline,Helicobacter Pylori Infection,9.5
+user_325,Multivitamin with iron,Anemia,10.0
+user_325,Epogen,Anemia,8.8
+user_326,Antihemophilic factor / von willebrand factor,von Willebrand's Disease,9.2
+user_326,Humate-P,von Willebrand's Disease,10.0
+user_326,Stimate,von Willebrand's Disease,10.0
+user_326,Decadron,Dermatitis Herpetiformis,9.8
+user_327,Zoledronic acid,Osteolytic Bone Lesions of Multiple Myeloma,1.3
+user_327,Viagra,34</span> users found this comment helpful.,7.8
+user_327,Zometa,Osteolytic Bone Lesions of Multiple Myeloma,7.5
+user_328,Kineret,Schnitzler Syndrome,10.0
+user_328,Anakinra,Schnitzler Syndrome,10.0
+user_329,Levetiracetam,Epilepsy,1.7
+user_329,Keppra,Epilepsy,5.0
+user_329,Fycompa,Epilepsy,9.3
+user_330,Ambrisentan,Pulmonary Hypertension,8.5
+user_330,Baclofen,Chronic Spasticity,8.3
+user_330,Uptravi,Pulmonary Hypertension,4.6
+user_330,Tyvaso,Pulmonary Hypertension,8.5
+user_331,Remeron,35</span> users found this comment helpful.,9.5
+user_331,Restasis,35</span> users found this comment helpful.,9.1
+user_332,Magnevist,CNS Magnetic Resonance Imaging,1.8
+user_332,Gadopentetate dimeglumine,CNS Magnetic Resonance Imaging,1.6
+user_332,Fluconazole,Candidemia,9.0
+user_332,Diflucan,Candidemia,9.4
+user_333,Nitroglycerin,Anal Fissure and Fistula,8.9
+user_334,Actiq,Breakthrough Pain,9.3
+user_334,Fentora,Breakthrough Pain,9.1
+user_335,Gabapentin,Diabetic Peripheral Neuropathy,8.2
+user_335,Pregabalin,Diabetic Peripheral Neuropathy,1.0
+user_335,Neurontin,Diabetic Peripheral Neuropathy,7.3
+user_335,Ciprofloxacin,Prostatitis,1.0
+user_335,Lyrica,Diabetic Peripheral Neuropathy,9.0
+user_335,Bactrim DS,Prostatitis,5.6
+user_336,Loteprednol,Iritis,1.3
+user_336,Goserelin,Bleeding Disorde,10.0
+user_336,Triamcinolone,Iritis,8.9
+user_336,Tranexamic acid,Bleeding Disorde,1.0
+user_337,Docetaxel,Solid Tumors,6.3
+user_337,Taxotere,Solid Tumors,5.3
+user_337,Naproxen,zen Shoulde,5.1
+user_337,Nabumetone,zen Shoulde,1.0
+user_337,Diclofenac,zen Shoulde,8.3
+user_337,Relafen,zen Shoulde,6.9
+user_337,Voltaren,zen Shoulde,7.9
+user_338,Tadalafil,Benign Prostatic Hyperplasia,9.6
+user_338,Rapaflo,Benign Prostatic Hyperplasia,1.0
+user_338,Dutasteride,Benign Prostatic Hyperplasia,7.8
+user_338,Tamsulosin,Benign Prostatic Hyperplasia,8.2
+user_339,Metronidazole,Dental Abscess,8.1
+user_339,Flagyl,Dental Abscess,9.4
+user_340,Amoxicillin / clavulanate,Small Bowel Bacterial Overgrowth,1.0
+user_340,Temozolomide,Anaplastic Astrocytoma,7.6
+user_341,Brilinta,Prevention of Atherothrombotic Events,8.8
+user_341,Ticagrelor,Prevention of Atherothrombotic Events,9.1
+user_342,Vagifem,Atrophic Urethritis,7.6
+user_342,Estradiol,Atrophic Urethritis,1.0
+user_342,Estrace Vaginal Cream,Atrophic Urethritis,3.4
+user_342,Estring,Atrophic Urethritis,10.0
+user_343,Camila,13</span> users found this comment helpful.,5.2
+user_343,Duexis,13</span> users found this comment helpful.,1.0
+user_343,Accutane,13</span> users found this comment helpful.,9.9
+user_343,Celebrex,13</span> users found this comment helpful.,10.0
+user_343,Junel Fe 1 / 20,13</span> users found this comment helpful.,1.4
+user_343,Lyrica,13</span> users found this comment helpful.,10.0
+user_344,Xanax XR,Tinnitus,10.0
+user_344,Alprazolam,Tinnitus,10.0
+user_344,Xanax,Tinnitus,10.0
+user_345,Guaifenesin / pseudoephedrine,Cough and Nasal Congestion,7.0
+user_345,Mucinex D,Cough and Nasal Congestion,4.4
+user_346,Dofetilide,Arrhythmia,9.4
+user_346,Mexiletine,Arrhythmia,9.8
+user_346,Tikosyn,Arrhythmia,9.9
+user_347,Rilonacept,amilial Cold Autoinflammatory Syndrome,9.4
+user_347,Arcalyst,amilial Cold Autoinflammatory Syndrome,9.9
+user_348,Warfarin,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,9.2
+user_348,Coumadin,Deep Vein Thrombosis Prophylaxis after Knee Replacement Surgery,9.5
+user_349,Anakinra,Schnitzler Syndrome,9.6
+user_349,Kineret,Schnitzler Syndrome,10.0
+user_350,Abilify,Schizophrenia,7.9
+user_350,Zyprexa,Schizophrenia,7.7
+user_350,Clozapine,Schizophrenia,9.3
+user_350,Aripiprazole,Schizoaffective Disorde,9.2
+user_351,Quasense,5</span> users found this comment helpful.,5.8
+user_351,Ortho Tri-Cyclen Lo,5</span> users found this comment helpful.,9.4
+user_351,Fioricet,5</span> users found this comment helpful.,9.2
+user_351,Thorazine,5</span> users found this comment helpful.,8.0
+user_351,Jolessa,5</span> users found this comment helpful.,1.9
+user_351,Beyaz,5</span> users found this comment helpful.,4.7
+user_351,Zovia,5</span> users found this comment helpful.,1.1
+user_351,Paxil,5</span> users found this comment helpful.,1.0
+user_352,Metformin / sitagliptin,min / sitagliptin),7.7
+user_353,Polyethylene glycol 3350,"Constipation, Acute",10.0
+user_353,MiraLax,"Constipation, Acute",8.2
+user_353,Senokot S,"Constipation, Acute",9.6
+user_353,Docusate / senna,"Constipation, Acute",10.0
+user_354,Pegfilgrastim,Neutropenia Associated with Chemotherapy,4.3
+user_354,Neupogen,Neutropenia Associated with Chemotherapy,9.6
+user_354,Neulasta,Neutropenia Associated with Chemotherapy,1.2
+user_355,Zostavax,"Herpes Zoster, Prophylaxis",10.0
+user_355,Zoster vaccine live,"Herpes Zoster, Prophylaxis",1.0
+user_356,Mycelex Troche,Oral Thrush,1.6
+user_356,Fluconazole,Oral Thrush,10.0
+user_356,Clotrimazole,Oral Thrush,7.3
+user_357,Tolnaftate,Tinea Cruris,10.0
+user_357,Terbinafine,Tinea Cruris,8.9
+user_357,Griseofulvin,Tinea Cruris,9.8
+user_357,Lamisil AT,Tinea Cruris,1.0
+user_357,Econazole,Tinea Cruris,8.8
+user_358,Eflornithine,Hirsutism,10.0
+user_358,Spironolactone,Hirsutism,6.9
+user_358,Vaniqa,Hirsutism,9.8
+user_359,Thyroid desiccated,Thyroid Cance,9.2
+user_359,Nexavar,Thyroid Cance,7.2
+user_359,Nature-Throid,Thyroid Cance,9.9
+user_359,Cabozantinib,Thyroid Cance,1.6
+user_359,Armour Thyroid,Thyroid Cance,10.0
+user_360,Isoniazid,"Tuberculosis, Active",7.4
+user_361,Lexiscan,Diagnosis and Investigation,1.5
+user_361,Regadenoson,Diagnosis and Investigation,8.4
+user_361,Provocholine,Diagnosis and Investigation,7.0
+user_361,Narcan Injection,Reversal of Opioid Sedation,8.3
+user_361,Arginine,Diagnosis and Investigation,10.0
+user_361,Naloxone,Reversal of Opioid Sedation,10.0
+user_362,Benztropine,Extrapyramidal Reaction,7.0
+user_362,Amantadine,Extrapyramidal Reaction,8.4
+user_362,Artane,Extrapyramidal Reaction,3.6
+user_362,Trihexyphenidyl,Extrapyramidal Reaction,9.8
+user_362,Benadryl,Extrapyramidal Reaction,9.9
+user_363,Terbutaline,Premature Lab,9.1
+user_363,Dextromethorphan,Cough,9.7
+user_363,Codeine / guaifenesin,Cough,4.2
+user_363,Gabapentin,Cough,9.0
+user_363,Cheratussin AC,Cough,10.0
+user_363,Codeine / promethazine,Cough,7.8
+user_363,Homatropine / hydrocodone,Cough,9.8
+user_364,Keflex,Otitis Media,8.6
+user_364,Cefdinir,Otitis Media,1.0
+user_364,Amoxicillin / clavulanate,Otitis Media,1.3
+user_365,Rosuvastatin,Atherosclerosis,7.1
+user_365,Coumadin,"Deep Vein Thrombosis, Recurrent Event",1.8
+user_365,Crestor,Atherosclerosis,8.1
+user_365,Xarelto,"Deep Vein Thrombosis, Recurrent Event",7.5
+user_365,Rivaroxaban,"Deep Vein Thrombosis, Recurrent Event",1.7
+user_366,Doxorubicin,Lymphoma,3.3
+user_366,Adriamycin,Lymphoma,3.8
+user_366,Chlorambucil,Lymphoma,5.7
+user_366,Methotrexate,Lymphoma,1.1
+user_366,Dexamethasone,Lymphoma,10.0
+user_367,Ethinyl estradiol / levonorgestrel,Ovarian Cysts,8.2
+user_367,Sprintec,Ovarian Cysts,10.0
+user_367,Ortho Tri-Cyclen Lo,Ovarian Cysts,9.4
+user_367,Ethinyl estradiol / norgestimate,Ovarian Cysts,5.8
+user_367,Dysport,acial Wrinkles,5.3
+user_368,Testosterone,Postpartum Breast Pain,9.6
+user_369,Drospirenone / ethinyl estradiol,Acne,9.6
+user_369,Tri-Sprintec,Acne,7.3
+user_369,Ethinyl estradiol / norethindrone,Acne,1.0
+user_369,Epiduo,Acne,1.5
+user_369,Benzoyl peroxide / clindamycin,Acne,10.0
+user_369,Isotretinoin,Acne,1.4
+user_369,Azelaic acid,Acne,10.0
+user_370,Minoxidil,Alopecia,8.3
+user_370,Kenalog-10,Alopecia,9.9
+user_370,Triamcinolone,Alopecia,1.5
+user_370,Spironolactone,Alopecia,9.7
+user_371,Plavix,Ischemic Stroke,9.5
+user_371,Clopidogrel,Ischemic Stroke,8.8
+user_372,Augmentin,Otitis Media,4.8
+user_372,Cefdinir,Otitis Media,2.3
+user_372,Zithromax,Otitis Media,10.0
+user_373,Fenofibrate,Hyperlipoproteinemia,6.0
+user_373,TriCor,Hyperlipoproteinemia,5.9
+user_373,Niacin,Hyperlipoproteinemia,8.2
+user_373,Niacin / simvastatin,Hyperlipoproteinemia,6.7
+user_374,Exalgo,41</span> users found this comment helpful.,9.0
+user_374,Phillips' Milk of Magnesia,41</span> users found this comment helpful.,10.0
+user_374,Deplin,41</span> users found this comment helpful.,9.8
+user_374,Soma,41</span> users found this comment helpful.,9.8
+user_374,Viibryd,41</span> users found this comment helpful.,8.8
+user_375,Budesonide,Eosinophilic Esophagitis,7.7
+user_375,Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,2.6
+user_375,Multivitamin with iron,Vitamin/Mineral Supplementation and Deficiency,1.0
+user_375,EnLyte,Vitamin/Mineral Supplementation and Deficiency,1.0
+user_376,Nortriptyline,Neurosis,2.1
+user_377,Toprol-XL,15</span> users found this comment helpful.,7.0
+user_377,Contrave,15</span> users found this comment helpful.,5.6
+user_377,Cryselle,15</span> users found this comment helpful.,9.8
+user_377,Wellbutrin SR,15</span> users found this comment helpful.,10.0
+user_377,Ultram,15</span> users found this comment helpful.,1.0
+user_377,MS Contin,15</span> users found this comment helpful.,6.3
+user_378,Lovastatin,"High Cholesterol, Familial Heterozygous",8.9
+user_378,Ezetimibe,"High Cholesterol, Familial Heterozygous",9.6
+user_378,Praluent,"High Cholesterol, Familial Heterozygous",1.0
+user_378,Evolocumab,"High Cholesterol, Familial Heterozygous",10.0
+user_379,Ibuprofen,Neck Pain,1.2
+user_379,Naproxen,Neck Pain,1.2
+user_380,Prazosin,Nightmares,1.0
+user_380,Risperdal,Nightmares,1.3
+user_381,Fluconazole,ungal Pneumonia,1.6
+user_381,Temozolomide,Anaplastic Oligodendroglioma,10.0
+user_382,Prograf,"Organ Transplant, Rejection Prophylaxis",9.1
+user_382,Tacrolimus,"Organ Transplant, Rejection Prophylaxis",8.5
+user_382,CellCept,"Organ Transplant, Rejection Prophylaxis",6.8
+user_383,Azathioprine,Ulcerative Colitis,1.0
+user_383,Ezetimibe / simvastatin,High Cholesterol,9.9
+user_383,Crestor,High Cholesterol,3.8
+user_383,Evolocumab,High Cholesterol,9.9
+user_383,Humira,Ulcerative Colitis,1.0
+user_384,Clindamycin,Peritonitis,9.9
+user_384,Trastuzumab,Salivary Gland Cance,10.0
+user_385,Modafinil,atigue,9.0
+user_385,Amphetamine / dextroamphetamine,atigue,10.0
+user_386,Erlotinib,Non-Small Cell Lung Cance,9.0
+user_386,Nivolumab,Non-Small Cell Lung Cance,8.7
+user_386,Tarceva,Non-Small Cell Lung Cance,9.9
+user_386,Taxol,Non-Small Cell Lung Cance,6.8
+user_387,Melatonin,Insomnia,4.9
+user_387,Ramelteon,Insomnia,1.0
+user_387,Trazodone,Insomnia,9.8
+user_387,Eszopiclone,Insomnia,8.2
+user_387,Quetiapine,Insomnia,9.2
+user_387,Seroquel,Insomnia,9.4
+user_388,Norethindrone,Birth Control,3.4
+user_388,Etonogestrel,Birth Control,1.1
+user_388,Sprintec,Birth Control,8.2
+user_388,ParaGard,Birth Control,9.0
+user_388,Lyza,Birth Control,6.2
+user_389,Compazine,Nausea/Vomiting,10.0
+user_389,Zofran,Nausea/Vomiting,9.1
+user_389,Prochlorperazine,Nausea/Vomiting,1.0
+user_389,Quetiapine,Borderline Personality Disorde,9.2
+user_390,Acetazolamide,Hydrocephalus,9.6
+user_391,Mycophenolic acid,tic (mycophenolic acid),10.0
+user_392,Alpha 1-proteinase inhibitor,Alpha-1 Proteinase Inhibitor Deficiency,9.4
+user_392,Prolastin-C,Alpha-1 Proteinase Inhibitor Deficiency,9.0
+user_392,Zemaira,Alpha-1 Proteinase Inhibitor Deficiency,10.0
+user_393,Diazepam,Meniere's Disease,10.0
+user_393,Valium,Meniere's Disease,8.9
+user_394,Ranexa,Angina,1.0
+user_394,Metoprolol,Angina,1.6
+user_394,Ranolazine,Angina,9.7
+user_394,Nadolol,Angina,10.0
+user_394,Nitroglycerin,Angina,10.0
+user_394,Lexiscan,Diagnosis and Investigation,8.0
+user_395,Fluorouracil,Actinic Keratosis,9.6
+user_395,Efudex,Actinic Keratosis,2.0
+user_396,Valacyclovir,"Herpes Simplex, Suppression",10.0
+user_396,Lysine,"Herpes Simplex, Suppression",10.0
+user_396,Valtrex,"Herpes Simplex, Suppression",10.0
+user_397,Doxycycline,Lyme Disease,9.0
+user_397,Cefuroxime,Lyme Disease,5.3
+user_397,Cilostazol,Intermittent Claudication,9.7
+user_397,Ceftin,Lyme Disease,8.2
+user_398,Famciclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",8.7
+user_398,Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",9.2
+user_398,Valtrex,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",8.9
+user_398,Famvir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",10.0
+user_399,Duloxetine,Chronic Fatigue Syndrome,1.2
+user_399,Provigil,Chronic Fatigue Syndrome,7.0
+user_399,Evening Primrose Oil,Chronic Fatigue Syndrome,1.4
+user_400,Chromium picolinate,Vitamin/Mineral Supplementation and Deficiency,9.5
+user_400,Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,1.0
+user_400,Omeprazole,Gastritis/Duodenitis,10.0
+user_400,EnLyte,Vitamin/Mineral Supplementation and Deficiency,1.8
+user_401,Aquavite-E,Tardive Dyskinesia,1.3
+user_401,Nuwiq,Hemophilia A,8.1
+user_401,Vitamin e,Tardive Dyskinesia,1.1
+user_401,Advate,Hemophilia A,8.9
+user_401,Antihemophilic factor,Hemophilia A,8.1
+user_402,Multivitamin with iron,Anemia,9.1
+user_402,Ranibizumab,Macular Edema,5.2
+user_402,Dexamethasone,Macular Edema,1.0
+user_403,Dronabinol,AIDS Related Wasting,8.8
+user_403,Nabumetone,Muscle Pain,1.5
+user_403,Naproxen,Muscle Pain,2.3
+user_403,Norgesic,Muscle Pain,10.0
+user_403,Salonpas Pain Patch,Muscle Pain,9.3
+user_404,Meclizine,Vertig,9.1
+user_404,Promethazine,Vertig,3.6
+user_405,Opdivo,Melanoma,9.4
+user_405,Keytruda,Melanoma,1.1
+user_405,Interferon alfa-2b,Melanoma,9.1
+user_405,Nivolumab,Melanoma,1.4
+user_406,Silver sulfadiazine,"Burns, External",10.0
+user_406,Dibucaine,"Burns, External",9.4
+user_407,Ocella,1</span> users found this comment helpful.,6.9
+user_407,Zofran,1</span> users found this comment helpful.,10.0
+user_407,Ortho Tri-Cyclen Lo,1</span> users found this comment helpful.,9.9
+user_407,Gianvi,1</span> users found this comment helpful.,1.0
+user_407,Microgestin Fe 1 / 20,1</span> users found this comment helpful.,7.8
+user_407,Lotrimin AF Athlete's Foot Powder,1</span> users found this comment helpful.,9.2
+user_408,Tegretol,Dystonia,1.0
+user_408,Tenex,29</span> users found this comment helpful.,9.8
+user_408,Baclofen,Dystonia,7.9
+user_409,Cheratussin AC,Cough,6.0
+user_409,Guaifenesin,Cough,4.5
+user_409,Gabapentin,Cough,8.2
+user_409,Benzonatate,Cough,9.0
+user_410,Bevacizumab,Macular Degeneration,10.0
+user_410,Eylea,Macular Degeneration,10.0
+user_410,Aflibercept,Macular Degeneration,7.6
+user_410,Avastin,Macular Degeneration,10.0
+user_411,Propranolol,Hemangioma,10.0
+user_411,Testosterone,"Delayed Puberty, Male",10.0
+user_412,Megestrol,Cachexia,9.5
+user_412,Ciprofloxacin,Infectious Diarrhea,3.7
+user_413,Gadobutrol,CNS Magnetic Resonance Imaging,1.0
+user_413,Gadopentetate dimeglumine,CNS Magnetic Resonance Imaging,1.0
+user_413,Magnevist,CNS Magnetic Resonance Imaging,1.8
+user_413,Gadavist,CNS Magnetic Resonance Imaging,1.1
+user_413,Viibryd,63</span> users found this comment helpful.,9.4
+user_414,Cozaar,61</span> users found this comment helpful.,8.6
+user_415,Colchicine,"Pseudogout, Prophylaxis",10.0
+user_416,Mupirocin,Secondary Cutaneous Bacterial Infections,10.0
+user_417,Metformin / rosiglitazone,min / rosiglitazone),8.1
+user_418,Cyproheptadine,Anorexia,9.4
+user_418,Marinol,Anorexia,9.0
+user_418,Megace ES,Anorexia,10.0
+user_418,Megestrol,Anorexia,10.0
+user_419,Reglan,Gastroparesis,2.3
+user_419,Metoclopramide,Gastroparesis,9.0
+user_420,Citalopram,Postpartum Depression,8.8
+user_420,Cialis,Erectile Dysfunction,9.8
+user_420,Tadalafil,Erectile Dysfunction,1.0
+user_421,Afrezza,"Diabetes, Type 1",8.8
+user_421,"Insulin inhalation, rapid acting","Diabetes, Type 1",1.1
+user_421,NovoLog Mix 70 / 30,"Diabetes, Type 1",9.5
+user_421,Insulin lispro / insulin lispro protamine,"Diabetes, Type 1",9.3
+user_422,Nystatin,Oral Thrush,6.5
+user_422,Mycelex Troche,Oral Thrush,8.8
+user_422,Nilstat,Oral Thrush,10.0
+user_422,Clotrimazole,Oral Thrush,5.0
+user_423,Spironolactone,Alopecia,9.1
+user_423,Rogaine Women's,Alopecia,10.0
+user_423,Minoxidil,Alopecia,7.2
+user_423,Rogaine,Alopecia,6.6
+user_424,Phenergan,Vertig,10.0
+user_424,Meclizine,Vertig,10.0
+user_425,Clove,Oral and Dental Conditions,9.6
+user_425,Estrace Vaginal Cream,64</span> users found this comment helpful.,8.5
+user_425,Benzocaine,Oral and Dental Conditions,1.4
+user_426,Terbinafine,Tinea Corporis,10.0
+user_426,Nizoral Topical,Tinea Corporis,10.0
+user_426,Lamisil AT,Tinea Corporis,1.3
+user_426,Oxiconazole,Tinea Corporis,8.4
+user_426,Oxistat,Tinea Corporis,10.0
+user_426,Griseofulvin,Tinea Corporis,1.8
+user_426,Miconazole,Tinea Corporis,10.0
+user_427,Dulcolax,26</span> users found this comment helpful.,10.0
+user_428,Ciprofloxacin,Typhoid Feve,9.8
+user_428,Cipro,Typhoid Feve,9.0
+user_429,Diazoxide,Hypoglycemia,8.9
+user_429,Proglycem,Hypoglycemia,8.6
+user_429,Insta-Glucose,Hypoglycemia,8.8
+user_430,Meclizine,Vertig,6.9
+user_431,Methotrexate,Neoplastic Diseases,6.2
+user_432,Medroxyprogesterone,Amenorrhea,8.9
+user_432,Provera,Amenorrhea,1.3
+user_432,Risperidone,Head Injury,2.5
+user_432,Norethindrone,Amenorrhea,8.4
+user_433,Efavirenz / emtricitabine / tenofovir,Nonoccupational Exposure,8.6
+user_433,Atripla,Nonoccupational Exposure,8.0
+user_433,Dicyclomine,Noninfectious Colitis,9.6
+user_433,Emtricitabine / tenofovir,Nonoccupational Exposure,3.4
+user_433,Efavirenz,Nonoccupational Exposure,9.5
+user_434,Rituximab,Wegener's Granulomatosis,8.2
+user_434,Cytoxan,Wegener's Granulomatosis,9.8
+user_434,Azathioprine,Wegener's Granulomatosis,5.4
+user_435,Ritalin,Narcolepsy,9.4
+user_435,Nuvigil,Narcolepsy,8.8
+user_435,Provigil,Narcolepsy,4.6
+user_436,Azacitidine,Myelodysplastic Syndrome,8.3
+user_436,Vidaza,Myelodysplastic Syndrome,3.5
+user_436,Fluvoxamine,Anorexia/Feeding Problems,8.6
+user_436,Luvox CR,Anorexia/Feeding Problems,8.6
+user_437,Valacyclovir,Herpes Zoste,10.0
+user_437,Famciclovir,Herpes Zoste,9.7
+user_437,Acyclovir,Herpes Zoste,7.5
+user_437,Valtrex,Herpes Zoste,9.3
+user_437,Adalimumab,Reiter's Syndrome,9.7
+user_438,Epinephrine,Anaphylaxis,10.0
+user_438,Narcan Injection,Reversal of Opioid Sedation,7.6
+user_438,EpiPen,Anaphylaxis,10.0
+user_438,Naloxone,Reversal of Opioid Sedation,9.9
+user_439,Cyclobenzaprine,Sciatica,9.3
+user_439,Diclofenac,Sciatica,9.1
+user_439,Colcrys,amilial Mediterranean Feve,8.8
+user_439,Naproxen,Sciatica,2.3
+user_439,Aleve,Sciatica,9.0
+user_440,Clindamycin,Aspiration Pneumonia,10.0
+user_440,Lansoprazole,Aspiration Pneumonia,5.1
+user_441,Capecitabine,Stomach Cance,10.0
+user_441,Lamisil,"Onychomycosis, Fingernail",10.0
+user_441,Terbinafine,"Onychomycosis, Fingernail",2.8
+user_441,Penlac Nail Lacquer,"Onychomycosis, Fingernail",7.8
+user_442,Ammonium lactate,Dry Skin,10.0
+user_442,Urea,Dry Skin,10.0
+user_442,Bag Balm,Dry Skin,7.9
+user_442,Blistex Lip Balm,Dry Skin,1.5
+user_442,Emollients,Dry Skin,4.4
+user_443,Dronabinol,Anorexia,8.3
+user_443,Cyproheptadine,Anorexia,9.2
+user_444,Amitiza,"Constipation, Drug Induced",1.0
+user_444,Methylnaltrexone,"Constipation, Drug Induced",3.2
+user_444,Movantik,"Constipation, Drug Induced",10.0
+user_445,Megace,Endometrial Hyperplasia,3.5
+user_445,Megestrol,Endometrial Hyperplasia,2.6
+user_446,Lifitegrast,Dry Eye Disease,4.9
+user_446,Xiidra,Dry Eye Disease,9.6
+user_446,Ocular lubricant,Dry Eye Disease,9.6
+user_447,Paremyd,Pupillary Dilation,1.8
+user_447,Tropicamide,Pupillary Dilation,2.3
+user_447,Hydroxyamphetamine / tropicamide,Pupillary Dilation,1.9
+user_448,Breo Ellipta,COPD,10.0
+user_448,Roflumilast,COPD,10.0
+user_448,Olodaterol / tiotropium,COPD,10.0
+user_448,Symbicort,COPD,4.3
+user_448,Anoro Ellipta,COPD,10.0
+user_449,Hydroxyzine,Pruritus,8.1
+user_449,Gabapentin,Pruritus,10.0
+user_449,Benzocaine,Pruritus,9.8
+user_450,Milnacipran,ibromyalgia,10.0
+user_450,Gabapentin,ibromyalgia,1.3
+user_450,Cymbalta,ibromyalgia,8.9
+user_451,Plavix,Platelet Aggregation Inhibition,9.0
+user_452,Epoetin alfa,Anemia,1.0
+user_452,Ferralet 90,Anemia,9.8
+user_452,Oxymetholone,Anemia,9.8
+user_453,Lamictal,32</span> users found this comment helpful.,10.0
+user_453,Deplin,32</span> users found this comment helpful.,8.6
+user_453,Testopel,32</span> users found this comment helpful.,10.0
+user_454,Lisinopril,Coronary Artery Disease,2.0
+user_454,Amlodipine,Coronary Artery Disease,1.0
+user_455,Rituximab,Pemphigoid,9.6
+user_455,Uricalm,46</span> users found this comment helpful.,10.0
+user_455,Vagifem,46</span> users found this comment helpful.,8.8
+user_456,Tacrolimus,Perioral Dermatitis,8.1
+user_456,Pimecrolimus,Perioral Dermatitis,10.0
+user_456,Metronidazole,Perioral Dermatitis,7.5
+user_457,Rivaroxaban,Pulmonary Embolism,10.0
+user_457,Xarelto,Pulmonary Embolism,8.4
+user_457,Pradaxa,Pulmonary Embolism,8.4
+user_457,Erbitux,Head and Neck Cance,1.1
+user_458,Lyrica,Reflex Sympathetic Dystrophy Syndrome,1.1
+user_458,Gabapentin,Reflex Sympathetic Dystrophy Syndrome,10.0
+user_458,Milnacipran,Reflex Sympathetic Dystrophy Syndrome,1.1
+user_458,Pregabalin,Reflex Sympathetic Dystrophy Syndrome,9.6
+user_458,Doxepin,Reflex Sympathetic Dystrophy Syndrome,3.0
+user_459,Varenicline,Smoking Cessation,7.1
+user_459,Bupropion,Smoking Cessation,9.2
+user_459,Chantix,Smoking Cessation,10.0
+user_459,Nicotine,Smoking Cessation,10.0
+user_460,Levothyroxine,Underactive Thyroid,8.3
+user_460,Thyroid desiccated,Underactive Thyroid,9.7
+user_461,Docusate / senna,"Constipation, Acute",7.6
+user_461,Polyethylene glycol 3350,"Constipation, Acute",7.6
+user_461,MiraLax,"Constipation, Acute",7.6
+user_462,Zepatier,Hepatitis C,8.5
+user_462,Ledipasvir / sofosbuvir,Hepatitis C,9.9
+user_462,Harvoni,Hepatitis C,9.2
+user_462,Epclusa,Hepatitis C,7.5
+user_462,Elbasvir / grazoprevir,Hepatitis C,9.3
+user_462,Peginterferon alfa-2a,Hepatitis C,7.6
+user_463,Relafen,zen Shoulde,6.6
+user_463,Baclofen,Muscle Twitching,8.5
+user_463,Naproxen,zen Shoulde,4.2
+user_463,Diclofenac,zen Shoulde,7.5
+user_463,Ibuprofen,zen Shoulde,8.2
+user_463,Voltaren,zen Shoulde,8.1
+user_464,Cortef,Adrenocortical Insufficiency,8.7
+user_464,Prednisone,Adrenocortical Insufficiency,10.0
+user_464,Hydrocortisone,Adrenocortical Insufficiency,8.6
+user_465,Ethinyl estradiol / levonorgestrel,Endometriosis,3.4
+user_465,Norethindrone,Endometriosis,10.0
+user_465,Seasonique,Endometriosis,2.3
+user_466,Meloxicam,Inflammatory Conditions,9.3
+user_466,Baclofen,Cervical Dystonia,1.0
+user_466,Prednisone,Inflammatory Conditions,9.4
+user_466,Dexamethasone,Inflammatory Conditions,8.0
+user_467,Anastrozole,Endometrial Cance,8.7
+user_467,Megace,Endometrial Cance,3.0
+user_467,Megestrol,Endometrial Cance,10.0
+user_468,Exalgo,41</span> users found this comment helpful.,8.0
+user_468,Soma,41</span> users found this comment helpful.,10.0
+user_468,Imuran,Autoimmune Hepatitis,9.7
+user_468,Budesonide,Autoimmune Hepatitis,7.1
+user_468,Mercaptopurine,Autoimmune Hepatitis,9.7
+user_468,Azathioprine,Autoimmune Hepatitis,8.1
+user_468,Mycophenolate mofetil,Autoimmune Hepatitis,7.1
+user_469,Prednisone,Pharyngitis,1.0
+user_469,Cephalexin,Pharyngitis,8.4
+user_469,Erythromycin,Pharyngitis,10.0
+user_469,Azithromycin Dose Pack,Pharyngitis,8.3
+user_470,Nadolol,Esophageal Variceal Hemorrhage Prophylaxis,9.3
+user_471,Ciprofloxacin / dexamethasone,Otitis Media,5.0
+user_471,Augmentin,Otitis Media,6.3
+user_471,Levofloxacin,Otitis Media,1.0
+user_471,Amoxicillin,Otitis Media,8.9
+user_471,Keflex,Otitis Media,8.0
+user_471,Omnicef,Otitis Media,5.8
+user_472,Esomeprazole,NSAID-Induced Gastric Ulce,10.0
+user_472,Prevacid,NSAID-Induced Gastric Ulce,7.6
+user_472,Nexium,NSAID-Induced Gastric Ulce,9.7
+user_473,Nitroglycerin,Anal Fissure and Fistula,8.9
+user_473,Rectiv,Anal Fissure and Fistula,8.9
+user_474,Testosterone,Klinefelter Syndrome,9.8
+user_475,Nuvigil,Narcolepsy,2.6
+user_475,Modafinil,Narcolepsy,8.3
+user_475,Provigil,Narcolepsy,8.7
+user_475,Vyvanse,Binge Eating Disorde,5.5
+user_475,Xyrem,Narcolepsy,9.2
+user_475,Armodafinil,Narcolepsy,9.1
+user_476,Spiriva,"COPD, Maintenance",8.5
+user_476,Atrovent,"COPD, Maintenance",9.8
+user_476,Tiotropium,"COPD, Maintenance",5.8
+user_477,Sorafenib,Hepatic Tum,1.6
+user_477,Nexavar,Hepatic Tum,1.0
+user_477,Targretin,Cutaneous T-cell Lymphoma,8.1
+user_478,Acetazolamide,Pseudotumor Cerebri,1.8
+user_478,Levetiracetam,Seizures,9.4
+user_478,Vimpat,Seizures,6.6
+user_478,Phenytoin,Seizures,1.3
+user_479,Levomilnacipran,Major Depressive Disorde,6.3
+user_479,Fetzima,Major Depressive Disorde,1.4
+user_479,Sertraline,Major Depressive Disorde,8.1
+user_479,Viibryd,Major Depressive Disorde,2.1
+user_479,Vortioxetine,Major Depressive Disorde,7.9
+user_479,Bupropion,Major Depressive Disorde,10.0
+user_480,Zostavax,"Herpes Zoster, Prophylaxis",9.7
+user_480,Zoster vaccine live,"Herpes Zoster, Prophylaxis",1.9
+user_481,Citalopram,Anxiety and Stress,8.4
+user_481,Fluoxetine,Anxiety and Stress,9.7
+user_482,Modafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,6.3
+user_482,Provigil,Obstructive Sleep Apnea/Hypopnea Syndrome,9.3
+user_482,Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,8.8
+user_483,Topical Anesthetic Dental Gel,Oral and Dental Conditions,1.0
+user_483,Benzocaine,Oral and Dental Conditions,2.0
+user_483,Clove,Oral and Dental Conditions,10.0
+user_484,Zetia,High Cholesterol,8.8
+user_484,Niacin,High Cholesterol,1.2
+user_485,Sprycel,Leukemia,10.0
+user_485,Dasatinib,Leukemia,10.0
+user_485,Prednisone,Leukemia,10.0
+user_486,Haloperidol,Aggressive Behavi,1.2
+user_486,Dexamethasone / neomycin / polymyxin b,Blepharitis,9.9
+user_487,Amiodarone,Ventricular Fibrillation,1.3
+user_487,Hepatitis b adult vaccine,Hepatitis B Prevention,1.0
+user_488,Fluoxetine,Bulimia,7.9
+user_488,Topiramate,Bulimia,5.2
+user_488,Venlafaxine,Bulimia,10.0
+user_488,Effexor XR,Bulimia,7.3
+user_489,Nifedipine,Raynaud's Syndrome,10.0
+user_489,Procardia,Raynaud's Syndrome,10.0
+user_489,Norvasc,Raynaud's Syndrome,7.2
+user_489,Amlodipine,Raynaud's Syndrome,7.2
+user_490,Pregabalin,Postherpetic Neuralgia,6.2
+user_490,Gralise,Postherpetic Neuralgia,9.2
+user_490,Horizant,Postherpetic Neuralgia,10.0
+user_490,Gabapentin enacarbil,Postherpetic Neuralgia,10.0
+user_490,Gabapentin,Postherpetic Neuralgia,9.9
+user_491,Simethicone,Gas,9.1
+user_491,Gelusil,Gas,8.8
+user_491,Aluminum hydroxide / magnesium hydroxide / simethicone,Gas,9.4
+user_491,Gas-X,Gas,9.8
+user_492,Boniva,Prevention of Osteoporosis,2.5
+user_492,Metronidazole,Pseudomembranous Colitis,7.8
+user_492,Ibandronate,Prevention of Osteoporosis,10.0
+user_492,Fosamax,Prevention of Osteoporosis,1.0
+user_492,Zoledronic acid,Prevention of Osteoporosis,10.0
+user_492,Raloxifene,Prevention of Osteoporosis,1.1
+user_492,Reclast,Prevention of Osteoporosis,8.0
+user_493,Aflibercept,Macular Degeneration,8.4
+user_493,Lucentis,Macular Degeneration,9.4
+user_493,Avastin,Macular Degeneration,10.0
+user_493,Eylea,Macular Degeneration,9.0
+user_494,Drospirenone / ethinyl estradiol,Polycystic Ovary Syndrome,1.0
+user_494,Metformin,Polycystic Ovary Syndrome,9.9
+user_494,Ethinyl estradiol / norethindrone,Polycystic Ovary Syndrome,5.8
+user_494,Tropicamide,Pupillary Dilation,2.2
+user_494,Loestrin 24 Fe,Polycystic Ovary Syndrome,9.9
+user_495,Foradil Aerolizer,"COPD, Maintenance",9.7
+user_495,Tiotropium,"COPD, Maintenance",9.5
+user_495,Albuterol,"COPD, Maintenance",10.0
+user_495,Albuterol / ipratropium,"COPD, Maintenance",1.0
+user_496,Exalgo,41</span> users found this comment helpful.,7.1
+user_496,Risperidone,Asperger Syndrome,3.7
+user_496,Risperdal M-Tab,Asperger Syndrome,7.8
+user_496,Risperdal,Asperger Syndrome,10.0
+user_496,Lisdexamfetamine,Asperger Syndrome,5.0
+user_497,Prograf,"Organ Transplant, Rejection Prophylaxis",8.7
+user_497,Hecoria,"Organ Transplant, Rejection Prophylaxis",9.6
+user_497,Mycophenolate mofetil,"Organ Transplant, Rejection Prophylaxis",9.3
+user_497,Tacrolimus,"Organ Transplant, Rejection Prophylaxis",9.8
+user_497,CellCept,"Organ Transplant, Rejection Prophylaxis",6.0
+user_498,Coumadin,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",8.3
+user_498,Warfarin,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",8.8
+user_499,Coumadin,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",9.6
+user_499,Warfarin,"Prosthetic Heart Valves, Tissue Valves - Thrombosis Prophylaxis",8.8
+user_500,Risperidone,Schizophrenia,10.0
+user_500,Iloperidone,Schizophrenia,7.7
+user_500,Invega Sustenna,Schizophrenia,1.0
+user_500,Lurasidone,Schizophrenia,1.0
+user_500,Aripiprazole,Schizophrenia,1.0
+user_500,Asenapine,Schizophrenia,8.8
+user_500,Paliperidone,Schizophrenia,1.0
+user_501,Furosemide,Edema,7.4
+user_501,Diamox Sequels,Edema,5.6
+user_502,Lurasidone,Bipolar Disorde,9.3
+user_502,Lithium,Bipolar Disorde,7.0
+user_502,Asenapine,Bipolar Disorde,8.7
+user_502,Lamotrigine,Bipolar Disorde,9.3
+user_503,Tri-Luma,Melasma,7.8
+user_503,Fluocinolone / hydroquinone / tretinoin,Melasma,9.3
+user_504,Decadron,Croup,8.6
+user_504,Dexamethasone,Croup,9.3
+user_505,Advil Cold and Sinus,Sinus Symptoms,9.9
+user_505,Drixoral Cold and Allergy,Sinus Symptoms,10.0
+user_505,Guaifenesin / phenylephrine,Sinus Symptoms,9.8
+user_505,Advil Cold and Sinus Liqui-Gels,Sinus Symptoms,10.0
+user_506,Donepezil,Mild Cognitive Impairment,8.1
+user_506,Aricept ODT,Mild Cognitive Impairment,9.7
+user_507,Botulinum toxin type b,Dystonia,10.0
+user_507,Baclofen,Dystonia,8.2
+user_507,Botox,Dystonia,8.3
+user_507,Carbamazepine,Dystonia,8.3
+user_508,EpiPen,Anaphylaxis,9.9
+user_508,Epinephrine,Anaphylaxis,9.5
+user_509,Valtrex,Herpes Zoste,9.6
+user_509,Valacyclovir,Herpes Zoste,10.0
+user_509,Acyclovir,Herpes Zoste,8.9
+user_510,Asacol,"Ulcerative Colitis, Maintenance",9.5
+user_510,Mesalamine,"Ulcerative Colitis, Maintenance",1.0
+user_510,Lialda,"Ulcerative Colitis, Maintenance",10.0
+user_511,Gabapentin,Hot Flashes,7.7
+user_511,Fluoxetine,Hot Flashes,8.7
+user_511,Venlafaxine,Hot Flashes,6.9
+user_511,Paroxetine,Hot Flashes,10.0
+user_512,Condylox,Condylomata Acuminata,9.5
+user_512,Podofilox,Condylomata Acuminata,8.8
+user_512,Methotrexate,Neoplastic Diseases,6.8
+user_512,Imiquimod,Condylomata Acuminata,10.0
+user_513,Ceftriaxone,Lyme Disease,9.2
+user_513,Doxycycline,Lyme Disease,8.3
+user_514,Cholestyramine,Pruritus of Partial Biliary Obstruction,9.4
+user_515,Methadone,Opiate Withdrawal,8.1
+user_515,Methocarbamol,Opiate Withdrawal,8.4
+user_515,Clonidine,Opiate Withdrawal,8.2
+user_515,Catapres,Opiate Withdrawal,9.0
+user_515,Somatropin,Turner's Syndrome,6.3
+user_516,Famotidine / ibuprofen,NSAID-Induced Ulcer Prophylaxis,7.3
+user_516,Esomeprazole / naproxen,NSAID-Induced Ulcer Prophylaxis,9.8
+user_516,Duexis,NSAID-Induced Ulcer Prophylaxis,9.1
+user_516,Vimovo,NSAID-Induced Ulcer Prophylaxis,9.9
+user_517,Soma,18</span> users found this comment helpful.,9.4
+user_517,Xolair,18</span> users found this comment helpful.,9.9
+user_517,Flomax,18</span> users found this comment helpful.,7.6
+user_517,Synvisc-One,18</span> users found this comment helpful.,1.0
+user_517,Adipex-P,18</span> users found this comment helpful.,8.6
+user_517,Ortho Tri-Cyclen Lo,18</span> users found this comment helpful.,8.7
+user_517,Testim,18</span> users found this comment helpful.,7.0
+user_518,Clonazepam,Sleep Paralysis,3.6
+user_518,Isoniazid,"Tuberculosis, Prophylaxis",6.5
+user_518,Rifampin,"Tuberculosis, Prophylaxis",9.6
+user_518,Rifadin,"Tuberculosis, Prophylaxis",10.0
+user_519,Chlorambucil,Lymphoma,7.1
+user_519,Dexasone,Lymphoma,10.0
+user_519,Doxorubicin,Lymphoma,3.7
+user_519,Leukeran,Lymphoma,6.7
+user_520,Breo Ellipta,COPD,9.1
+user_520,Symbicort,COPD,10.0
+user_520,Imiquimod,Human Papilloma Virus,9.9
+user_520,Daliresp,COPD,10.0
+user_520,Incruse Ellipta,COPD,3.5
+user_520,Roflumilast,COPD,10.0
+user_520,Anoro Ellipta,COPD,9.0
+user_521,Hydroxychloroquine,Sjogren's Syndrome,8.4
+user_522,CellCept,Myasthenia Gravis,10.0
+user_522,Mycophenolate mofetil,Myasthenia Gravis,9.6
+user_522,Pyridostigmine,Myasthenia Gravis,4.2
+user_522,Mestinon Timespan,Myasthenia Gravis,9.8
+user_523,Abatacept,Juvenile Idiopathic Arthritis,7.3
+user_523,Actemra,Juvenile Idiopathic Arthritis,9.3
+user_523,Remicade,Juvenile Idiopathic Arthritis,9.1
+user_523,Infliximab,Juvenile Idiopathic Arthritis,9.2
+user_523,Orencia,Juvenile Idiopathic Arthritis,7.2
+user_523,Humira,Juvenile Idiopathic Arthritis,8.7
+user_524,Latisse,Eyelash Hypotrichosis,5.4
+user_524,Bimatoprost,Eyelash Hypotrichosis,10.0
+user_524,Propranolol,Portal Hypertension,9.7
+user_525,Amiodarone,Ventricular Fibrillation,1.8
+user_526,Carbidopa / entacapone / levodopa,Parkinson's Disease,10.0
+user_526,Comtan,Parkinson's Disease,8.0
+user_526,Stalevo,Parkinson's Disease,1.3
+user_526,Carbidopa / levodopa,Parkinson's Disease,9.2
+user_526,Neupro,Parkinson's Disease,9.8
+user_526,Trihexyphenidyl,Parkinson's Disease,1.0
+user_527,Belviq,21</span> users found this comment helpful.,4.7
+user_527,Librium,21</span> users found this comment helpful.,9.7
+user_527,Enskyce,21</span> users found this comment helpful.,6.3
+user_527,Adderall,21</span> users found this comment helpful.,8.0
+user_527,Intuniv,21</span> users found this comment helpful.,2.0
+user_527,Ortho Tri-Cyclen Lo,21</span> users found this comment helpful.,9.9
+user_527,Mirena,21</span> users found this comment helpful.,9.5
+user_528,Meclizine,Vertig,9.9
+user_528,Phenergan,Vertig,2.5
+user_529,Fluoxetine,Obsessive Compulsive Disorde,7.8
+user_529,Zoloft,Obsessive Compulsive Disorde,5.8
+user_529,Multivitamin,Dietary Supplementation,9.3
+user_529,Fluvoxamine,Obsessive Compulsive Disorde,7.4
+user_529,Clomipramine,Obsessive Compulsive Disorde,10.0
+user_529,Sertraline,Obsessive Compulsive Disorde,8.7
+user_529,Paxil,Obsessive Compulsive Disorde,9.7
+user_530,Neulasta,Neutropenia Associated with Chemotherapy,8.2
+user_530,Pegfilgrastim,Neutropenia Associated with Chemotherapy,1.0
+user_531,Benztropine,Extrapyramidal Reaction,10.0
+user_531,Nizoral A-D,Seborrheic Dermatitis,2.0
+user_531,Trihexyphenidyl,Extrapyramidal Reaction,6.3
+user_531,Amantadine,Extrapyramidal Reaction,8.2
+user_532,Metoprolol,Heart Attack,9.1
+user_532,Plavix,Heart Attack,9.5
+user_532,Warfarin,Heart Attack,7.5
+user_532,Nitro-Bid,Heart Attack,9.3
+user_532,Streptokinase,Heart Attack,9.9
+user_533,Itraconazole,"Aspergillosis, Aspergilloma",9.5
+user_534,Butorphanol,Labor Pain,10.0
+user_534,Ropivacaine,Labor Pain,1.4
+user_534,Stadol,Labor Pain,1.0
+user_535,Eylea,Diabetic Macular Edema,9.9
+user_535,Aflibercept,Diabetic Macular Edema,1.3
+user_535,Iluvien,Diabetic Macular Edema,10.0
+user_535,Fluocinolone,Diabetic Macular Edema,10.0
+user_536,Ropinirole,Periodic Limb Movement Disorde,1.0
+user_536,Clonazepam,Periodic Limb Movement Disorde,6.7
+user_536,Klonopin,Periodic Limb Movement Disorde,8.6
+user_537,Ketoconazole,Tinea Versicol,1.0
+user_537,Selenium sulfide,Tinea Versicol,7.4
+user_537,Diflucan,Tinea Versicol,1.5
+user_538,Protonix,14</span> users found this comment helpful.,9.4
+user_538,Revlimid,14</span> users found this comment helpful.,9.3
+user_538,Yaz,14</span> users found this comment helpful.,7.6
+user_538,Benicar,14</span> users found this comment helpful.,8.9
+user_538,Vimovo,14</span> users found this comment helpful.,1.0
+user_538,Yasmin,14</span> users found this comment helpful.,1.0
+user_538,Adderall,14</span> users found this comment helpful.,9.6
+user_538,Hair Regrowth Treatment for Women,14</span> users found this comment helpful.,1.0
+user_539,Gabapentin,Postherpetic Neuralgia,10.0
+user_539,Lidoderm,Postherpetic Neuralgia,7.1
+user_539,Lyrica,Postherpetic Neuralgia,7.0
+user_539,Capsaicin,Postherpetic Neuralgia,8.7
+user_540,Alpha 1-proteinase inhibitor,Alpha-1 Proteinase Inhibitor Deficiency,9.8
+user_540,Zemaira,Alpha-1 Proteinase Inhibitor Deficiency,10.0
+user_540,Prolastin-C,Alpha-1 Proteinase Inhibitor Deficiency,9.5
+user_541,Menactra,Meningococcal Meningitis Prophylaxis,1.0
+user_542,Oseltamivir,Influenza,1.8
+user_542,Tamiflu,Influenza,8.4
+user_543,Cymbalta,ibromyalgia,9.7
+user_543,Milnacipran,ibromyalgia,10.0
+user_543,Cyclobenzaprine,ibromyalgia,3.1
+user_544,Ocular lubricant,Eye Redness,10.0
+user_544,Prefrin,Eye Redness,9.2
+user_544,FreshKote,Eye Redness,10.0
+user_544,Tetrahydrozoline,Eye Redness,9.7
+user_544,GenTeal,Eye Redness,9.4
+user_545,Dexamethasone,Dermatitis Herpeti,10.0
+user_546,Fluocinolone,Dermatitis,7.7
+user_546,Triamcinolone,Dermatitis,10.0
+user_546,Halog,Dermatitis,9.7
+user_546,Mometasone,Dermatitis,9.8
+user_546,Clocortolone,Dermatitis,9.7
+user_546,Hylira,Dermatitis,10.0
+user_546,Clobetasol,Dermatitis,9.6
+user_547,Simethicone,Gas,1.9
+user_547,Mylanta Gas,Gas,2.5
+user_547,Devrom,Gas,9.0
+user_547,Gas-X,Gas,10.0
+user_547,Citric acid / simethicone / sodium bicarbonate,Gas,10.0
+user_548,Kybella,Submental Fullness,1.5
+user_549,Metronidazole,Pelvic Inflammatory Disease,7.5
+user_549,Pancrelipase,Cystic Fibrosis,9.8
+user_549,Creon,Cystic Fibrosis,10.0
+user_549,Advil,Cystic Fibrosis,10.0
+user_549,Ibuprofen,Cystic Fibrosis,10.0
+user_549,Ceftriaxone,Pelvic Inflammatory Disease,2.9
+user_550,Dapsone,Leukocytoclastic Vasculitis,1.3
+user_551,Ramipril,High Blood Pressure,2.5
+user_551,Atenolol,High Blood Pressure,7.7
+user_551,Duloxetine,ibromyalgia,1.6
+user_551,Norvasc,High Blood Pressure,6.2
+user_551,Tramadol,ibromyalgia,6.0
+user_551,Mobic,ibromyalgia,10.0
+user_552,Lorazepam,Status Epilepticus,4.6
+user_552,Diazepam,Status Epilepticus,9.9
+user_553,Itraconazole,Sporotrichosis,8.1
+user_554,Decadron,Croup,9.1
+user_554,Dexamethasone,Croup,9.1
+user_555,Peridex,Gingivitis,10.0
+user_555,Chlorhexidine,Gingivitis,9.8
+user_556,Riluzole,Amyotrophic Lateral Sclerosis,6.4
+user_557,Chantix,Smoking Cessation,10.0
+user_557,Varenicline,Smoking Cessation,10.0
+user_558,Vitamin B12,45</span> users found this comment helpful.,9.9
+user_558,Depo-Provera,45</span> users found this comment helpful.,1.0
+user_559,Silenor,28</span> users found this comment helpful.,9.6
+user_559,Namenda XR,28</span> users found this comment helpful.,3.5
+user_559,Marinol,28</span> users found this comment helpful.,9.5
+user_560,Pyridium,Dysuria,2.0
+user_560,Azo-Standard,Dysuria,10.0
+user_560,Uristat,Dysuria,9.4
+user_560,Uricalm,Dysuria,9.8
+user_561,Atovaquone / proguanil,Malaria Prevention,7.8
+user_561,Malarone,Malaria Prevention,8.9
+user_561,Mefloquine,Malaria Prevention,9.8
+user_561,Daraprim,Malaria Prevention,10.0
+user_562,Phillips' Milk of Magnesia,41</span> users found this comment helpful.,9.7
+user_562,Viibryd,41</span> users found this comment helpful.,8.4
+user_562,Soma,41</span> users found this comment helpful.,10.0
+user_563,Fluocinonide,Lichen Planus,9.3
+user_563,Triamcinolone,Lichen Planus,1.0
+user_563,Prednisone,Lichen Planus,7.6
+user_564,Declomycin,SIADH,8.0
+user_564,Demeclocycline,SIADH,9.1
+user_565,Vascepa,Hypertriglyceridemia,10.0
+user_565,Icosapent,Hypertriglyceridemia,10.0
+user_565,Fenofibrate,Hypertriglyceridemia,9.5
+user_565,Fenofibric acid,Hypertriglyceridemia,8.1
+user_566,Diflucan,Esophageal Candidiasis,9.6
+user_566,Fluconazole,Esophageal Candidiasis,9.5
+user_566,Methotrexate,Lymphoma,2.5
+user_566,Prednisone,Lymphoma,4.2
+user_566,Leukeran,Lymphoma,7.5
+user_566,Chlorambucil,Lymphoma,7.4
+user_566,Dexasone,Lymphoma,10.0
+user_567,Mephyton,Vitamin K Deficiency,10.0
+user_567,Phytonadione,Vitamin K Deficiency,10.0
+user_568,Azithromycin,"COPD, Acute",7.6
+user_568,Albuterol,"COPD, Acute",1.1
+user_568,Alupent,"COPD, Acute",9.2
+user_568,Levalbuterol,"COPD, Acute",8.7
+user_568,Ventolin,"COPD, Acute",9.8
+user_568,Epinephrine,"COPD, Acute",8.1
+user_569,Lidocaine,Manscaping Pain,9.7
+user_570,Azithromycin,Skin or Soft Tissue Infection,1.6
+user_570,Minocycline,Skin or Soft Tissue Infection,3.0
+user_570,Clindamycin,Skin or Soft Tissue Infection,8.4
+user_570,Cephalexin,Skin or Soft Tissue Infection,10.0
+user_571,Lacrisert,Eye Redness,9.9
+user_571,Ocular lubricant,Eye Redness,2.7
+user_572,Doxylamine / pyridoxine,Nausea/Vomiting of Pregnancy,9.6
+user_572,Diclegis,Nausea/Vomiting of Pregnancy,5.9
+user_573,Cholestyramine,Dumping Syndrome,9.8
+user_573,Pamine,Dumping Syndrome,10.0
+user_574,Valtrex,Cold Sores,10.0
+user_574,Valacyclovir,Cold Sores,10.0
+user_574,Sitavig,Cold Sores,6.7
+user_575,Clopidogrel,Ischemic Stroke,10.0
+user_575,Nimotop,Ischemic Stroke,9.7
+user_576,Hydroxyzine,Anxiety,6.5
+user_576,Alprazolam,Anxiety,8.1
+user_576,Escitalopram,Anxiety,9.1
+user_577,Creon,Chronic Pancreatitis,9.6
+user_577,Pancrelipase,Chronic Pancreatitis,1.0
+user_577,Zenpep,Chronic Pancreatitis,10.0
+user_577,Pancreatin,Chronic Pancreatitis,9.3
+user_577,Alli,51</span> users found this comment helpful.,8.8
+user_578,Necon 1 / 35,19</span> users found this comment helpful.,10.0
+user_578,Anafranil,19</span> users found this comment helpful.,4.2
+user_578,Tenofovir,Hepatitis B,9.1
+user_578,NP Thyroid,19</span> users found this comment helpful.,9.3
+user_578,Nardil,19</span> users found this comment helpful.,1.0
+user_578,OsmoPrep,19</span> users found this comment helpful.,10.0
+user_578,Mirena,19</span> users found this comment helpful.,6.5
+user_578,Viread,Hepatitis B,9.5
+user_579,Furosemide,Edema,4.0
+user_579,Lasix,Edema,9.9
+user_579,Dyazide,Edema,8.4
+user_579,Pamabrom,Edema,1.0
+user_580,Klonopin,Insomnia,7.9
+user_580,Belsomra,Insomnia,1.9
+user_580,Ambien,Insomnia,4.8
+user_581,Prednisone,"Epicondylitis, Tennis Elbow",1.3
+user_582,Levothyroxine,Underactive Thyroid,7.8
+user_582,Synthroid,Underactive Thyroid,9.7
+user_582,Armour Thyroid,Underactive Thyroid,10.0
+user_583,Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",10.0
+user_583,Valtrex,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",9.9
+user_583,Epinephrine,AV Heart Block,1.0
+user_583,Acyclovir,"Herpes Simplex, Mucocutaneous/Immunocompromised Host",8.4
+user_584,Belviq,Weight Loss,9.2
+user_584,Phentermine,Weight Loss,10.0
+user_585,Budesonide,"Crohn's Disease, Acute",8.9
+user_585,Infliximab,"Crohn's Disease, Acute",3.5
+user_585,Remicade,"Crohn's Disease, Acute",6.3
+user_585,Humira,"Crohn's Disease, Acute",9.9
+user_585,Metronidazole,"Crohn's Disease, Acute",9.0
+user_585,Adalimumab,"Crohn's Disease, Acute",3.6
+user_586,Doxycycline,Ocular Rosacea,1.9
+user_586,Gabapentin,Syringomyelia,6.1
+user_586,Oracea,Ocular Rosacea,10.0
+user_587,Mobic,Tendonitis,10.0
+user_587,Prednisone,Gouty Arthritis,9.4
+user_587,Meloxicam,Tendonitis,9.9
+user_588,Carisoprodol,Nocturnal Leg Cramps,10.0
+user_588,Soma,Nocturnal Leg Cramps,9.6
+user_589,Dexilant,GERD,1.6
+user_589,Omeprazole,GERD,1.5
+user_589,Protonix,GERD,10.0
+user_589,Pantoprazole,GERD,10.0
+user_590,Cyclobenzaprine,Sciatica,6.7
+user_590,Armodafinil,Chronic Fatigue Syndrome,8.7
+user_590,Relafen,Sciatica,10.0
+user_590,Ibuprofen,Sciatica,8.1
+user_590,Voltaren,Sciatica,10.0
+user_590,Nuvigil,Chronic Fatigue Syndrome,7.2
+user_591,Avastin,Glioblastoma Multiforme,5.3
+user_591,Omeprazole,Multiple Endocrine Adenomas,10.0
+user_591,Temodar,Glioblastoma Multiforme,9.6
+user_592,Dexamethasone / neomycin / polymyxin b,Blepharitis,10.0
+user_592,Diazepam,Endoscopy or Radiology Premedication,10.0
+user_593,Vancomycin,Sepsis,1.1
+user_593,Remeron,40</span> users found this comment helpful.,9.7
+user_594,Drixoral Cold and Allergy,3</span> users found this comment helpful.,9.1
+user_594,Loestrin 24 Fe,3</span> users found this comment helpful.,4.9
+user_594,Tazorac,3</span> users found this comment helpful.,1.3
+user_594,Bactrim,3</span> users found this comment helpful.,1.1
+user_595,Erlotinib,Non-Small Cell Lung Cance,9.0
+user_595,Gefitinib,Non-Small Cell Lung Cance,9.2
+user_595,Pemetrexed,Non-Small Cell Lung Cance,10.0
+user_595,Nivolumab,Non-Small Cell Lung Cance,2.3
+user_595,Dexamethasone,Lymphoma,9.8
+user_595,Iressa,Non-Small Cell Lung Cance,8.3
+user_595,Opdivo,Non-Small Cell Lung Cance,10.0
+user_596,Estratest H.S.,Menopausal Disorders,10.0
+user_596,Esterified estrogens / methyltestosterone,Menopausal Disorders,8.9
+user_597,Levothyroxine,Hashimoto's disease,10.0
+user_597,Thyroid desiccated,Hashimoto's disease,8.9
+user_597,Armour Thyroid,Hashimoto's disease,8.7
+user_597,Synthroid,Hashimoto's disease,9.7
+user_597,Nature-Throid,Hashimoto's disease,9.3
+user_597,Erlotinib,Pancreatic Cance,5.2
+user_598,Fluorouracil,Actinic Keratosis,2.2
+user_598,Ingenol,Actinic Keratosis,8.2
+user_598,Carac,Actinic Keratosis,9.1
+user_599,Nifedipine,Raynaud's Syndrome,8.2
+user_599,Amlodipine,Raynaud's Syndrome,6.6
+user_600,Versed,Light Anesthesia,10.0
+user_601,Doxycycline,Ocular Rosacea,9.9
+user_601,Oracea,Ocular Rosacea,10.0
+user_602,Alpha 1-proteinase inhibitor,Alpha-1 Proteinase Inhibitor Deficiency,10.0
+user_602,Romidepsin,Peripheral T-cell Lymphoma,1.0
+user_602,Istodax,Peripheral T-cell Lymphoma,1.2
+user_602,Zemaira,Alpha-1 Proteinase Inhibitor Deficiency,10.0
+user_603,Nexium,Duodenal Ulcer Prophylaxis,6.7
+user_603,Esomeprazole,Duodenal Ulcer Prophylaxis,8.0
+user_604,Zoledronic acid,Osteoporosis,7.4
+user_604,Teriparatide,Osteoporosis,10.0
+user_604,Forteo,Osteoporosis,1.5
+user_604,Prolia,Osteoporosis,1.6
+user_604,Erbitux,Colorectal Cance,7.7
+user_604,Actonel,Osteoporosis,3.0
+user_605,Dulcolax,27</span> users found this comment helpful.,1.2
+user_605,Silenor,27</span> users found this comment helpful.,8.9
+user_605,Premarin,27</span> users found this comment helpful.,10.0
+user_605,Nardil,27</span> users found this comment helpful.,8.6
+user_606,Canasa,"Ulcerative Colitis, Active",8.4
+user_606,Budesonide,"Ulcerative Colitis, Active",6.3
+user_606,Pentasa,"Ulcerative Colitis, Active",5.6
+user_606,Niacin,Niacin Deficiency,1.7
+user_606,Lialda,"Ulcerative Colitis, Active",9.2
+user_607,Neulasta,Neutropenia Associated with Chemotherapy,8.3
+user_608,Carbamazepine,Dystonia,1.0
+user_608,Myobloc,Dystonia,9.4
+user_609,Alcaftadine,"Conjunctivitis, Allergic",9.7
+user_609,Bepreve,"Conjunctivitis, Allergic",8.9
+user_609,Ketotifen,"Conjunctivitis, Allergic",10.0
+user_609,Lastacaft,"Conjunctivitis, Allergic",9.9
+user_609,Pemirolast,"Conjunctivitis, Allergic",9.9
+user_610,Modafinil,Chronic Fatigue Syndrome,9.5
+user_610,Armodafinil,Chronic Fatigue Syndrome,6.6
+user_610,Xarelto,Pulmonary Embolism,7.4
+user_611,Efudex,Skin Cance,4.8
+user_611,Fluorouracil,Skin Cance,7.2
+user_611,Carac,Skin Cance,9.5
+user_612,Risperidone,Head Injury,2.0
+user_612,Risperdal,Head Injury,10.0
+user_612,Amantadine,Head Injury,5.3
+user_613,Pyridostigmine,Reversal of Nondepolarizing Muscle Relaxants,1.4
+user_614,Amitriptyline,Neurotic Depression,10.0
+user_615,Tamiflu,Influenza,9.3
+user_615,Oseltamivir,Influenza,4.9
+user_616,Meclizine,Vertig,7.4
+user_616,Progesterone,Amenorrhea,5.7
+user_616,Prometrium,Amenorrhea,5.2
+user_616,Provera,Amenorrhea,10.0
+user_617,Wellbutrin XL,Seasonal Affective Disorde,8.3
+user_617,Estradiol,Hypoestrogenism,9.7
+user_617,Budeprion XL,Seasonal Affective Disorde,10.0
+user_617,Bupropion,Seasonal Affective Disorde,10.0
+user_618,Zyclara,Keratosis,8.3
+user_618,Carac,Keratosis,9.7
+user_618,Efudex,Keratosis,9.3
+user_618,Imiquimod,Keratosis,9.7
+user_619,Somatropin,Adult Human Growth Hormone Deficiency,10.0
+user_619,Humatrope,Adult Human Growth Hormone Deficiency,8.5
+user_619,Iohexol,Body Imaging,7.0
+user_620,Nuwiq,Hemophilia A,6.8
+user_620,Dapsone,Leukocytoclastic Vasculitis,8.7
+user_620,Advate,Hemophilia A,9.6
+user_620,Antihemophilic factor,Hemophilia A,7.5
+user_621,Oxybutynin,Women (oxybutynin),3.2
+user_622,Clindamycin / tretinoin,Acne,1.4
+user_622,Epiduo,Acne,8.2
+user_622,Isotretinoin,Acne,10.0
+user_623,Ciprofloxacin,Typhoid Feve,8.6
+user_623,Cipro,Typhoid Feve,9.1
+user_624,Acetaminophen / butalbital / caffeine,Headache,10.0
+user_624,Fioricet,Headache,8.3
+user_624,Acetaminophen / dichloralphenazone / isometheptene mucate,Headache,1.4
+user_624,Aspirin / butalbital / caffeine / codeine,Headache,10.0
+user_625,Zantac 150,Pathological Hypersecretory Conditions,7.8
+user_625,Dantrium,98</span> users found this comment helpful.,10.0
+user_625,Ranitidine,Pathological Hypersecretory Conditions,8.1
+user_626,Orajel,Aphthous Ulce,6.0
+user_626,Lysine,Aphthous Ulce,9.0
+user_626,Triamcinolone,Aphthous Ulce,10.0
+user_627,Addyi,Hypoactive Sexual Desire Disorde,1.6
+user_627,Flibanserin,Hypoactive Sexual Desire Disorde,8.7
+user_627,Conivaptan,Euvolemic Hyponatremia,8.4
+user_627,Vaprisol,Euvolemic Hyponatremia,8.8
+user_628,MoviPrep,25</span> users found this comment helpful.,1.4
+user_628,Viagra,25</span> users found this comment helpful.,9.3
+user_628,Lo Loestrin Fe,25</span> users found this comment helpful.,8.0
+user_628,Junel Fe 1 / 20,25</span> users found this comment helpful.,9.9
+user_628,Silenor,25</span> users found this comment helpful.,10.0
+user_628,Arthrotec,25</span> users found this comment helpful.,10.0
+user_629,Insulin isophane,Gestational Diabetes,9.4
+user_630,Flecainide,Wolff-Parkinson-White Syndrome,9.4
+user_630,Promethazine,Opiate Adjunct,10.0
+user_630,Phenergan,Opiate Adjunct,9.2
+user_631,Zoladex,"Breast Cancer, Palliative",7.1
+user_632,Aleve,Costochondritis,10.0
+user_632,Naproxen,Costochondritis,10.0
+user_632,Naprosyn,Costochondritis,10.0
+user_633,Aprepitant,"Nausea/Vomiting, Chemotherapy Induced",10.0
+user_633,Ativan,"Nausea/Vomiting, Chemotherapy Induced",10.0
+user_633,Emend,"Nausea/Vomiting, Chemotherapy Induced",10.0
+user_633,Dronabinol,"Nausea/Vomiting, Chemotherapy Induced",10.0
+user_633,Ipratropium,Rhinorrhea,4.4
+user_633,Zofran,"Nausea/Vomiting, Chemotherapy Induced",9.4
+user_634,Ferralet 90,Anemia,10.0
+user_634,Multivitamin with iron,Anemia,1.0
+user_634,Epogen,Anemia,9.4
+user_634,Oxymetholone,Anemia,10.0
+user_634,Procrit,Anemia,1.0
+user_634,Collagenase clostridium histolyticum,Peyronie's Disease,4.9
+user_635,Linzess,"Constipation, Chronic",1.7
+user_635,Linaclotide,"Constipation, Chronic",9.7
+user_635,Polyethylene glycol 3350 with electrolytes,"Constipation, Chronic",10.0
+user_635,Lactulose,"Constipation, Chronic",10.0
+user_635,Lubiprostone,"Constipation, Chronic",5.9
+user_636,Ceftriaxone,Lyme Disease,9.3
+user_636,Doxycycline,Lyme Disease,1.0
+user_637,Ganciclovir,Herpes Simplex Dendritic Keratitis,9.7
+user_637,Zirgan,Herpes Simplex Dendritic Keratitis,4.5
+user_638,Vyvanse,Binge Eating Disorde,3.7
+user_638,Lisdexamfetamine,Binge Eating Disorde,2.7
+user_638,Fluoxetine,Binge Eating Disorde,10.0
+user_639,Clonazepam,Night Terrors,10.0
+user_639,Diazepam,Night Terrors,9.6
+user_640,Imodium,"Diarrhea, Acute",10.0
+user_640,Loperamide,"Diarrhea, Acute",9.8
+user_640,Motofen,"Diarrhea, Acute",10.0
+user_640,Atropine / difenoxin,"Diarrhea, Acute",9.5
+user_640,Imodium A-D,"Diarrhea, Acute",9.9
+user_641,Itraconazole,Histoplasmosis,3.4
+user_642,Minoxidil,Alopecia,8.3
+user_642,Kenalog-10,Alopecia,10.0
+user_643,Aricept ODT,Alzheimer's Disease,8.5
+user_643,Aricept,Alzheimer's Disease,8.5
+user_643,Donepezil,Alzheimer's Disease,3.0
+user_644,Cyproheptadine,ailure to Thrive,10.0
+user_644,Elavil,Somatoform Pain Disorde,10.0
+user_645,Plan B,Emergency Contraception,10.0
+user_645,Levonorgestrel,Emergency Contraception,10.0
+user_645,Plan B One-Step,Emergency Contraception,8.6
+user_646,Elavil,Somatoform Pain Disorde,8.9
+user_647,Fluticasone,Lichen Sclerosus,10.0
+user_647,Clobex,Lichen Sclerosus,10.0
+user_647,Clobetasol,Lichen Sclerosus,9.8
+user_647,Betamethasone,Lichen Sclerosus,10.0
+user_647,Cutivate,Lichen Sclerosus,9.6
+user_648,Artemether / lumefantrine,Malaria,8.8
+user_648,Haloperidol,Dementia,1.7
+user_648,Malarone,Malaria,10.0
+user_649,Antihemophilic factor,Hemophilia A,8.3
+user_649,Advate,Hemophilia A,9.6
+user_649,Nuwiq,Hemophilia A,9.2
+user_650,Buprenorphine / naloxone,Not Listed / Othe,10.0
+user_650,Gabapentin,Not Listed / Othe,6.3
+user_650,Armodafinil,Not Listed / Othe,9.6
+user_650,Nabumetone,Not Listed / Othe,10.0
+user_650,Indomethacin,Not Listed / Othe,8.0
+user_650,Modafinil,Not Listed / Othe,10.0
+user_651,Empagliflozin / metformin,min),10.0
+user_651,Metformin,min),8.5
+user_652,PhosLo,Hyperphosphatemia,8.1
+user_652,Calcium acetate,Hyperphosphatemia,7.5
+user_653,Ethinyl estradiol / norethindrone,Polycystic Ovary Syndrome,7.7
+user_653,Metformin,Polycystic Ovary Syndrome,9.8
+user_653,Microgestin Fe 1 / 20,Polycystic Ovary Syndrome,5.8
+user_653,Ethinyl estradiol / levonorgestrel,Polycystic Ovary Syndrome,1.5
+user_653,Loestrin 24 Fe,Polycystic Ovary Syndrome,7.6
+user_654,Miconazole,Vaginal Yeast Infection,1.0
+user_654,Tioconazole,Vaginal Yeast Infection,6.4
+user_655,Ethinyl estradiol / norethindrone,Birth Control,7.8
+user_655,Sprintec,Birth Control,5.5
+user_655,Liletta,Birth Control,9.3
+user_655,Skyla,Birth Control,10.0
+user_655,TriNessa,Birth Control,4.1
+user_656,Oxytocin,Labor Induction,9.3
+user_656,Cervidil,Labor Induction,1.0
+user_656,Dinoprostone,Labor Induction,1.2
+user_656,Herceptin,Salivary Gland Cance,10.0
+user_656,Trastuzumab,Salivary Gland Cance,10.0
+user_657,Nardil,27</span> users found this comment helpful.,8.5
+user_657,Femring,27</span> users found this comment helpful.,10.0
+user_657,Silenor,27</span> users found this comment helpful.,9.8
+user_657,Premarin,27</span> users found this comment helpful.,8.9
+user_657,Dulcolax,27</span> users found this comment helpful.,1.0
+user_658,Primidone,Benign Essential Trem,4.3
+user_658,Propranolol,Benign Essential Trem,9.5
+user_659,Prevnar 13,Pneumococcal Disease Prophylaxis,6.0
+user_659,Bethanechol,Urinary Retention,6.0
+user_660,Zoloft,42</span> users found this comment helpful.,9.5
+user_660,Solu-Medrol,42</span> users found this comment helpful.,7.6
+user_661,Gabapentin,Neuropathic Pain,5.2
+user_661,Pregabalin,Neuropathic Pain,6.1
+user_662,Rabeprazole,Helicobacter Pylori Infection,9.2
+user_662,Bismuth subcitrate potassium / metronidazole / tetracycline,Helicobacter Pylori Infection,8.0
+user_662,Pylera,Helicobacter Pylori Infection,9.2
+user_662,Amoxicillin / clarithromycin / lansoprazole,Helicobacter Pylori Infection,8.4
+user_662,Aciphex,Helicobacter Pylori Infection,10.0
+user_663,Vaniqa,Hirsutism,9.2
+user_663,Eflornithine,Hirsutism,10.0
+user_663,Spironolactone,Hirsutism,1.0
+user_664,Penicillamine,Wilson's Disease,7.6
+user_664,Decadron,Dermatitis Herpetiformis,10.0
+user_665,Levothyroxine,Underactive Thyroid,9.3
+user_665,Tirosint,Underactive Thyroid,8.3
+user_665,Armour Thyroid,Underactive Thyroid,8.3
+user_665,WP Thyroid,Underactive Thyroid,10.0
+user_666,Midodrine,Postural Orthostatic Tachycardia Syndrome,8.5
+user_666,ProAmatine,Postural Orthostatic Tachycardia Syndrome,8.9
+user_666,Florinef,Postural Orthostatic Tachycardia Syndrome,8.9
+user_667,Gianvi,Premenstrual Dysphoric Disorde,3.1
+user_667,Fluoxetine,Premenstrual Dysphoric Disorde,8.4
+user_667,Triple Paste,Diaper Rash,10.0
+user_667,Zinc oxide,Diaper Rash,10.0
+user_667,Zoloft,Premenstrual Dysphoric Disorde,9.6
+user_667,Ocella,Premenstrual Dysphoric Disorde,8.0
+user_668,Minoxidil,Alopecia,8.0
+user_668,Kenalog-10,Alopecia,9.9
+user_669,Flecainide,Wolff-Parkinson-White Syndrome,9.5
+user_669,Tambocor,Wolff-Parkinson-White Syndrome,8.9
+user_670,Ritalin,95</span> users found this comment helpful.,8.7
+user_671,Cozaar,Diabetic Kidney Disease,9.7
+user_671,Lisinopril,Diabetic Kidney Disease,1.6
+user_672,Soolantra,Rosacea,10.0
+user_672,Azelaic acid,Rosacea,8.6
+user_672,Mirvaso,Rosacea,1.4
+user_672,Metronidazole,Rosacea,8.6
+user_672,Isotretinoin,Rosacea,9.8
+user_672,Minocycline,Rosacea,10.0
+user_673,Orvaten,Postural Orthostatic Tachycardia Syndrome,9.5
+user_673,Midodrine,Postural Orthostatic Tachycardia Syndrome,9.6
+user_673,Florinef,Postural Orthostatic Tachycardia Syndrome,9.9
+user_674,Gabapentin,Occipital Neuralgia,10.0
+user_675,Sevelamer,Hyperphosphatemia of Renal Failure,3.0
+user_675,Velphoro,Hyperphosphatemia of Renal Failure,6.4
+user_675,Auryxia,Hyperphosphatemia of Renal Failure,3.0
+user_676,Azithromycin,Chlamydia Infection,1.1
+user_677,Hylan g-f 20,Osteoarthritis,10.0
+user_677,Hyaluronan,Osteoarthritis,8.1
+user_677,Sodium hyaluronate,Osteoarthritis,1.4
+user_677,Euflexxa,Osteoarthritis,1.0
+user_678,Silver,Dermatological Disorders,10.0
+user_678,Benzoic acid / salicylic acid,Dermatological Disorders,10.0
+user_678,Salicylic acid,Dermatological Disorders,10.0
+user_678,Diprosone,Dermatological Disorders,9.7
+user_678,Rea Lo 40,Dermatological Disorders,9.3
+user_678,Betamethasone,Dermatological Disorders,8.0
+user_679,Zostavax,"Herpes Zoster, Prophylaxis",9.4
+user_679,Zoster vaccine live,"Herpes Zoster, Prophylaxis",1.0
+user_680,BuSpar,Anxiety,10.0
+user_680,Ativan,Anxiety,10.0
+user_680,Escitalopram,Anxiety,8.8
+user_680,Hydroxyzine,Anxiety,7.1
+user_681,Valtrex,Varicella-Zoste,9.3
+user_681,Valacyclovir,Varicella-Zoste,8.9
+user_682,Omeprazole,Zollinger-Ellison Syndrome,9.2
+user_682,Temodar,Anaplastic Oligodendroglioma,9.9
+user_682,Temozolomide,Anaplastic Oligodendroglioma,10.0
+user_683,Tamiflu,Influenza,4.9
+user_683,Oseltamivir,Influenza,9.2
+user_684,Armour Thyroid,Hashimoto's disease,9.9
+user_684,Levothyroxine,Hashimoto's disease,10.0
+user_684,Synthroid,Hashimoto's disease,3.4
+user_685,Zinc oxide,Diaper Rash,10.0
+user_685,Menthol / zinc oxide,Diaper Rash,3.5
+user_685,Vusion,Diaper Rash,9.5
+user_685,Triple Paste,Diaper Rash,10.0
+user_685,Miconazole / zinc oxide,Diaper Rash,10.0
+user_686,Isotretinoin,Acute Nonlymphocytic Leukemia,10.0
+user_687,Nitrofurantoin,Prevention of Bladder infection,9.9
+user_687,Macrobid,Prevention of Bladder infection,9.9
+user_688,Hydroxychloroquine,Sjogren's Syndrome,8.7
+user_688,Cevimeline,Sjogren's Syndrome,9.7
+user_689,Junel 1.5 / 30,Menstrual Disorders,1.2
+user_689,Ethinyl estradiol / norethindrone,Menstrual Disorders,1.6
+user_689,Loestrin 24 Fe,Menstrual Disorders,7.5
+user_689,Loestrin 21 1 / 20,Menstrual Disorders,7.4
+user_690,Cyclosporine,Keratoconjunctivitis Sicca,9.6
+user_690,Restasis,Keratoconjunctivitis Sicca,4.2
+user_691,Lo / Ovral-28,43</span> users found this comment helpful.,10.0
+user_691,Pristiq,43</span> users found this comment helpful.,8.1
+user_691,Valium,43</span> users found this comment helpful.,9.1
+user_692,Dilaudid-HP,Anesthetic Adjunct,9.8
+user_692,Flibanserin,Hypoactive Sexual Desire Disorde,10.0
+user_692,Hydromorphone,Anesthetic Adjunct,9.6
+user_693,Levaquin,Skin or Soft Tissue Infection,7.7
+user_693,Cephalexin,Skin or Soft Tissue Infection,7.3
+user_693,Augmentin,Skin or Soft Tissue Infection,1.2
+user_693,Keflex,Skin or Soft Tissue Infection,2.8
+user_694,Abreva,Herpes Simplex,8.9
+user_694,Acyclovir,Herpes Simplex,1.4
+user_695,Neulasta,Neutropenia Associated with Chemotherapy,8.9
+user_695,Filgrastim,Neutropenia Associated with Chemotherapy,10.0
+user_695,Pegfilgrastim,Neutropenia Associated with Chemotherapy,9.5
+user_695,Ondansetron,"Nausea/Vomiting, Radiation Induced",9.0
+user_696,Levothyroxine,Hashimoto's disease,1.1
+user_696,Armour Thyroid,Hashimoto's disease,2.6
+user_696,Thyroid desiccated,Hashimoto's disease,9.9
+user_696,Levoxyl,Hashimoto's disease,10.0
+user_696,Synthroid,Hashimoto's disease,10.0
+user_697,Lamisil,Tinea Capitis,10.0
+user_697,Gris-PEG,Tinea Capitis,5.3
+user_697,Griseofulvin,Tinea Capitis,6.1
+user_697,Terbinafine,Tinea Capitis,9.1
+user_698,Tizanidine,Cluster Headaches,3.0
+user_698,Imitrex,Cluster Headaches,9.8
+user_698,Imitrex Nasal,Cluster Headaches,8.5
+user_698,Sumatriptan,Cluster Headaches,10.0
+user_699,Gadopentetate dimeglumine,CNS Magnetic Resonance Imaging,1.4
+user_699,Magnevist,CNS Magnetic Resonance Imaging,1.3
+user_699,Gadavist,CNS Magnetic Resonance Imaging,1.0
+user_700,Herceptin,Salivary Gland Cance,9.8
+user_700,Chlorhexidine,Periodontitis,10.0
+user_700,Minocycline,Periodontitis,6.1
+user_701,Doxycycline,Q Feve,8.7
+user_702,Ivermectin,Head Lice,1.4
+user_702,Sklice,Head Lice,10.0
+user_703,Lamisil,20</span> users found this comment helpful.,3.7
+user_703,Cryselle,20</span> users found this comment helpful.,10.0
+user_703,Bydureon,20</span> users found this comment helpful.,8.6
+user_703,Neurontin,20</span> users found this comment helpful.,1.1
+user_703,Viibryd,20</span> users found this comment helpful.,1.0
+user_703,Contrave,20</span> users found this comment helpful.,8.5
+user_703,Microgestin Fe 1 / 20,20</span> users found this comment helpful.,1.3
+user_703,Beyaz,20</span> users found this comment helpful.,10.0
+user_704,Ranitidine,Duodenal Ulce,6.9
+user_704,Aciphex,Duodenal Ulce,9.2
+user_704,Sucralfate,Duodenal Ulce,9.5
+user_705,Adalimumab,"Crohn's Disease, Maintenance",8.8
+user_705,Pentasa,"Crohn's Disease, Maintenance",8.9
+user_705,Imuran,"Crohn's Disease, Maintenance",9.3
+user_706,Progesterone,Uterine Bleeding,2.5
+user_706,Prometrium,Uterine Bleeding,7.4
+user_707,Xyzal,Allergies,1.0
+user_707,Levocetirizine,Allergies,8.8
+user_707,Hydroxyzine,Allergies,9.5
+user_708,Topiramate,Seizure Prevention,1.0
+user_708,Lamotrigine,Seizure Prevention,9.3
+user_708,Lamictal,Seizure Prevention,6.0
+user_709,Omalizumab,Urticaria,9.6
+user_709,Fexofenadine,Urticaria,8.3
+user_709,Zyrtec,Urticaria,10.0
+user_709,Cetirizine,Urticaria,10.0
+user_710,Modafinil,Hypersomnia,8.7
+user_710,Doxycycline,"Lyme Disease, Neurologic",7.6
+user_710,Nuvigil,Hypersomnia,7.0
+user_711,Furosemide,Edema,10.0
+user_711,Hydrochlorothiazide / triamterene,Edema,9.3
+user_711,Aldactone,Edema,9.0
+user_712,Loteprednol,Cyclitis,10.0
+user_712,Estrace Vaginal Cream,77</span> users found this comment helpful.,9.4
+user_713,Viagra,34</span> users found this comment helpful.,7.8
+user_714,Valacyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",8.9
+user_714,Famciclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",9.5
+user_714,Acyclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",5.1
+user_715,Depakene,Seizure Prevention,1.0
+user_715,Topiramate,Seizure Prevention,8.4
+user_715,Topamax,Seizure Prevention,9.7
+user_715,Clonazepam,Seizure Prevention,9.6
+user_715,Lamictal,Seizure Prevention,7.1
+user_715,Lamotrigine,Seizure Prevention,7.0
+user_716,Rilonacept,amilial Cold Autoinflammatory Syndrome,9.6
+user_716,Glucose,Hypoglycemia,8.7
+user_716,Insta-Glucose,Hypoglycemia,8.5
+user_716,Arcalyst,amilial Cold Autoinflammatory Syndrome,9.8
+user_716,Diazoxide,Hypoglycemia,9.8
+user_717,Fioricet,Headache,10.0
+user_717,Acetaminophen / caffeine,Headache,9.1
+user_717,Butalbital Compound,Headache,9.8
+user_718,Pantoprazole,Stomach Ulce,9.6
+user_718,Sucralfate,Stomach Ulce,8.0
+user_719,Hydromorphone,Anesthetic Adjunct,10.0
+user_719,Dilaudid-HP,Anesthetic Adjunct,10.0
+user_720,Chlor-Trimeton,Allergic Reactions,9.3
+user_720,Cyproheptadine,Allergic Reactions,9.4
+user_720,Triamcinolone,Allergic Reactions,8.8
+user_720,Diphenhydramine,Allergic Reactions,1.0
+user_720,Aciphex,Erosive Esophagitis,1.3
+user_720,Benadryl Allergy,Allergic Reactions,6.1
+user_720,Ranitidine,Erosive Esophagitis,9.9
+user_721,Azithromycin,"Conjunctivitis, Bacterial",8.6
+user_721,Moxifloxacin,"Conjunctivitis, Bacterial",1.0
+user_721,Erythromycin,"Conjunctivitis, Bacterial",8.5
+user_721,Loteprednol / tobramycin,"Conjunctivitis, Bacterial",9.8
+user_721,TobraDex,"Conjunctivitis, Bacterial",9.7
+user_721,Vigamox,"Conjunctivitis, Bacterial",2.3
+user_722,Thorazine,Hiccups,10.0
+user_722,Lioresal,Hiccups,9.0
+user_722,Baclofen,Hiccups,9.4
+user_722,Chlorpromazine,Hiccups,9.4
+user_723,Metformin / pioglitazone,min / pioglitazone),9.0
+user_724,Propofol,Anesthesia,9.4
+user_724,Fentanyl,Anesthesia,9.4
+user_725,Acyclovir,Mononucleosis,10.0
+user_726,Acetylcysteine,Diagnostic Bronchograms,7.8
+user_727,Methotrexate,Systemic Sclerosis,9.8
+user_727,Prednisone,Systemic Sclerosis,4.9
+user_728,Neoral,Idiopathic Thrombocytopenic Purpura,10.0
+user_728,Romiplostim,Idiopathic Thrombocytopenic Purpura,10.0
+user_728,Cyclosporine,Idiopathic Thrombocytopenic Purpura,9.4
+user_728,Rho (d) immune globulin,Idiopathic Thrombocytopenic Purpura,2.5
+user_728,WinRho SDF,Idiopathic Thrombocytopenic Purpura,2.7
+user_729,Chlordiazepoxide,Alcohol Withdrawal,9.6
+user_729,Baclofen,Alcohol Withdrawal,10.0
+user_729,Diazepam,Alcohol Withdrawal,9.8
+user_730,Valtrex,Herpes Zoste,1.2
+user_730,Acyclovir,Herpes Zoste,7.7
+user_730,Famciclovir,Herpes Zoste,9.9
+user_730,Valacyclovir,Herpes Zoste,5.6
+user_731,Tamiflu,Swine Flu,1.9
+user_731,Oseltamivir,Swine Flu,7.3
+user_732,"Multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation,10.0
+user_732,Ferrous sulfate,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.6
+user_732,Prenatal Plus,Vitamin/Mineral Supplementation during Pregnancy/Lactation,4.1
+user_733,Letrozole,"Breast Cancer, Adjuvant",4.4
+user_733,Cytoxan,Wegener's Granulomatosis,10.0
+user_733,Cyclophosphamide,Wegener's Granulomatosis,10.0
+user_733,Femara,"Breast Cancer, Adjuvant",9.1
+user_734,Clindamycin,Peritonitis,9.6
+user_735,Benadryl Allergy,Allergic Reactions,9.5
+user_735,Prednisone,Allergic Reactions,1.0
+user_735,Actifed,Cold Symptoms,9.3
+user_735,Bronkaid,Cold Symptoms,10.0
+user_735,Vicks QlearQuil Nighttime Allergy Relief,Cold Symptoms,1.8
+user_735,Echinacea,Cold Symptoms,9.2
+user_735,Diphenhydramine,Allergic Reactions,10.0
+user_736,Magnesium oxide,Hypomagnesemia,3.6
+user_736,Pravastatin,"Hyperlipoproteinemia Type III, Elevated beta-VLDL   IDL",4.4
+user_737,Clotrimazole,Oral Thrush,6.6
+user_737,Nystatin,Oral Thrush,2.4
+user_737,Bupropion,Seasonal Affective Disorde,10.0
+user_738,Generess Fe,Birth Control,10.0
+user_738,Nexplanon,Birth Control,10.0
+user_738,Lo Loestrin Fe,Birth Control,9.2
+user_739,Clonidine,"Insomnia, Stimulant-Associated",4.6
+user_740,Irinotecan,Colorectal Cance,5.6
+user_740,Erbitux,Colorectal Cance,7.8
+user_740,Capecitabine,Colorectal Cance,7.5
+user_741,Medroxyprogesterone,"Endometrial Hyperplasia, Prophylaxis",8.7
+user_741,Depo-Provera,"Endometrial Hyperplasia, Prophylaxis",9.9
+user_741,Omeprazole,Multiple Endocrine Adenomas,10.0
+user_742,Metformin,min),10.0
+user_742,Sevelamer,Hyperphosphatemia of Renal Failure,1.0
+user_742,Dapagliflozin / metformin,min),7.4
+user_743,Isotretinoin,Granuloma Annulare,10.0
+user_743,Accutane,Granuloma Annulare,9.8
+user_743,Halobetasol,Granuloma Annulare,9.3
+user_744,Multivitamin with iron,Anemia,1.6
+user_744,Oxymetholone,Anemia,10.0
+user_744,Lansoprazole,Aspiration Pneumonia,6.0
+user_744,Maxaron Forte,Anemia,7.9
+user_745,Istodax,Peripheral T-cell Lymphoma,1.0
+user_745,Romidepsin,Peripheral T-cell Lymphoma,1.0
+user_745,Pralatrexate,Peripheral T-cell Lymphoma,1.6
+user_745,Erbitux,Squamous Cell Carcinoma,7.5
+user_745,Folotyn,Peripheral T-cell Lymphoma,1.7
+user_745,Cetuximab,Squamous Cell Carcinoma,6.9
+user_746,Capsaicin,Postherpetic Neuralgia,8.4
+user_746,Nitrofurantoin,Prevention of Bladder infection,9.8
+user_746,Pregabalin,Postherpetic Neuralgia,5.1
+user_746,Neurontin,Postherpetic Neuralgia,9.7
+user_746,Sulfamethoxazole / trimethoprim,Prevention of Bladder infection,3.1
+user_746,Lyrica,Postherpetic Neuralgia,7.9
+user_746,Lidocaine,Postherpetic Neuralgia,1.3
+user_747,Megestrol,Endometrial Hyperplasia,9.9
+user_747,Pyrantel,Pinworm Infection (Enterobius vermicularis),10.0
+user_747,Megace,Endometrial Hyperplasia,4.4
+user_748,Gabapentin,Alcohol Withdrawal,10.0
+user_748,Baclofen,Alcohol Withdrawal,10.0
+user_748,Diazepam,Alcohol Withdrawal,9.7
+user_748,Librium,Alcohol Withdrawal,9.3
+user_748,Chlordiazepoxide,Alcohol Withdrawal,10.0
+user_749,Metronidazole,Rosacea,8.0
+user_749,Oracea,Rosacea,4.2
+user_749,Rhofade,Rosacea,1.0
+user_749,Zyclara,Keratosis,7.6
+user_749,Mirvaso,Rosacea,1.0
+user_750,Pantoprazole,Stomach Ulce,8.7
+user_750,Carafate,Stomach Ulce,2.4
+user_750,Tagamet,Stomach Ulce,8.5
+user_750,Omeprazole,Stomach Ulce,8.8
+user_751,Contrave,Obesity,1.1
+user_751,Lorcaserin,Obesity,10.0
+user_751,Bupropion / naltrexone,Obesity,9.4
+user_751,Belviq,Obesity,10.0
+user_751,Alli,Obesity,1.0
+user_751,Phentermine,Obesity,7.6
+user_752,Umeclidinium / vilanterol,COPD,9.0
+user_752,Olodaterol / tiotropium,COPD,10.0
+user_752,Stiolto Respimat,COPD,3.9
+user_752,Roflumilast,COPD,9.9
+user_752,Anoro Ellipta,COPD,10.0
+user_752,Singulair,COPD,7.9
+user_753,C1 esterase inhibitor (human),Hereditary Angioedema,2.8
+user_753,Ferrlecit,Anemia Associated with Chronic Renal Failure,5.7
+user_753,Firazyr,Hereditary Angioedema,2.7
+user_753,Conestat alfa,Hereditary Angioedema,10.0
+user_753,Icatibant,Hereditary Angioedema,2.8
+user_753,Ecallantide,Hereditary Angioedema,9.6
+user_753,Epoetin alfa,Anemia Associated with Chronic Renal Failure,9.4
+user_754,Vemurafenib,"Melanoma, Metastatic",8.6
+user_754,Zelboraf,"Melanoma, Metastatic",9.2
+user_755,Nadolol,Esophageal Variceal Hemorrhage Prophylaxis,8.8
+user_756,Cartia XT,Atrial Flutte,1.5
+user_756,Flecainide,Atrial Flutte,10.0
+user_756,Diltiazem,Atrial Flutte,2.7
+user_757,Pseudoephedrine,Nasal Congestion,9.9
+user_757,Norel SR,Nasal Congestion,10.0
+user_757,Naphazoline,Nasal Congestion,9.1
+user_757,Loratadine / pseudoephedrine,Nasal Congestion,2.6
+user_758,Immune globulin intravenous,Anti NMDA Receptor Encephalitis,9.4
+user_758,DDAVP Nasal,Diabetes Insipidus,9.6
+user_758,DDAVP,Diabetes Insipidus,9.7
+user_758,Desmopressin,Diabetes Insipidus,9.1
+user_759,Promacta,Thrombocytopenia,5.5
+user_759,Eltrombopag,Thrombocytopenia,5.0
+user_760,Metronidazole,"Crohn's Disease, Acute",9.1
+user_760,Azathioprine,"Crohn's Disease, Acute",8.3
+user_760,Imuran,"Crohn's Disease, Acute",2.2
+user_760,Infliximab,"Crohn's Disease, Acute",1.4
+user_760,Budesonide,"Crohn's Disease, Acute",7.0
+user_760,Entocort EC,"Crohn's Disease, Acute",9.3
+user_761,BuSpar,123</span> users found this comment helpful.,9.7
+user_762,Condylox,Condylomata Acuminata,1.0
+user_762,Podofilox,Condylomata Acuminata,9.4
+user_762,Imiquimod,Condylomata Acuminata,1.0
+user_763,Ubiquinone,Dietary Supplementation,10.0
+user_763,Multivitamin,Dietary Supplementation,1.0
+user_763,Glutamine,Dietary Supplementation,10.0
+user_763,Chondroitin / glucosamine,Dietary Supplementation,1.0
+user_763,Arginine,Dietary Supplementation,8.8
+user_763,Schiff Move Free,Dietary Supplementation,4.4
+user_763,Omega-3 polyunsaturated fatty acids,Dietary Supplementation,9.8
+user_764,Prograf,"Organ Transplant, Rejection Reversal",7.5
+user_764,AmLactin,Ichthyosis,9.3
+user_764,Ammonium lactate,Ichthyosis,9.5
+user_765,Bevacizumab,Glioblastoma Multi,9.9
+user_765,Temozolomide,Glioblastoma Multi,8.5
+user_766,Baclofen,Cerebral Spasticity,9.5
+user_766,Gablofen,Cerebral Spasticity,1.0
+user_767,Provera,Amenorrhea,5.2
+user_767,Medroxyprogesterone,Amenorrhea,10.0
+user_768,Metformin / sitagliptin,min / sitagliptin),9.8
+user_768,Gastrocrom,Systemic Mastocytosis,3.9
+user_769,Reglan,Gastroparesis,2.6
+user_769,Metoclopramide,Gastroparesis,7.6
+user_770,Oxcarbazepine,Trigeminal Neuralgia,9.6
+user_770,Tegretol XR,Trigeminal Neuralgia,10.0
+user_770,Baclofen,Trigeminal Neuralgia,9.8
+user_770,Gabapentin,Trigeminal Neuralgia,9.4
+user_771,Xanax,30</span> users found this comment helpful.,9.9
+user_772,L-methylfolate,lic Acid Deficiency,10.0
+user_772,Deplin,lic Acid Deficiency,10.0
+user_773,Bydureon,"Diabetes, Type 2",8.3
+user_773,Invokana,"Diabetes, Type 2",10.0
+user_773,Insulin detemir,"Diabetes, Type 2",4.4
+user_773,Pioglitazone,"Diabetes, Type 2",7.6
+user_773,Victoza,"Diabetes, Type 2",1.5
+user_773,Trulicity,"Diabetes, Type 2",7.9
+user_774,Valacyclovir,CMV Prophylaxis,6.6
+user_774,Valganciclovir,CMV Prophylaxis,8.2
+user_774,Valcyte,CMV Prophylaxis,7.9
+user_775,Klor-Con,Hypokalemia,9.1
+user_775,Potassium chloride,Hypokalemia,9.5
+user_775,"Rabies vaccine, human diploid cell",Rabies Prophylaxis,10.0
+user_775,Spironolactone,Hypokalemia,9.0
+user_776,Vitamin e,Tardive Dyskinesia,1.0
+user_776,Simvastatin,Cardiovascular Risk Reduction,1.3
+user_776,Ramipril,Cardiovascular Risk Reduction,6.6
+user_776,Praluent,Cardiovascular Risk Reduction,9.5
+user_776,Alirocumab,Cardiovascular Risk Reduction,9.0
+user_777,Exemestane,Breast Cance,7.9
+user_777,Anastrozole,Breast Cance,6.3
+user_777,Afinitor,Breast Cance,2.9
+user_777,Letrozole,Breast Cance,8.4
+user_778,Dextromethorphan / quinidine,Pseudobulbar Affect,9.1
+user_779,Turmeric,Herbal Supplementation,10.0
+user_779,S-adenosylmethionine,Herbal Supplementation,9.2
+user_779,Guarana,Herbal Supplementation,1.0
+user_779,Chaparral,Herbal Supplementation,9.7
+user_779,Bee pollen,Herbal Supplementation,9.1
+user_780,Plavix,Transient Ischemic Attack,3.9
+user_780,Clopidogrel,Transient Ischemic Attack,9.9
+user_780,Bayer Children's Aspirin,Transient Ischemic Attack,9.2
+user_780,Aspirin,Transient Ischemic Attack,9.7
+user_781,Ethinyl estradiol / norgestimate,Ovarian Cysts,1.0
+user_781,Sprintec,Ovarian Cysts,1.0
+user_781,Aviane,Ovarian Cysts,7.4
+user_781,Ortho Tri-Cyclen Lo,Ovarian Cysts,9.0
+user_782,Colchicine,"Pseudogout, Prophylaxis",10.0
+user_783,Loestrin 24 Fe,0</span> users found this comment helpful.,2.6
+user_783,Sprintec,0</span> users found this comment helpful.,2.8
+user_783,Tri-Sprintec,0</span> users found this comment helpful.,1.1
+user_783,Previfem,0</span> users found this comment helpful.,1.0
+user_784,Sulfamethoxazole / trimethoprim,Bacterial Skin Infection,4.3
+user_784,Arcalyst,amilial Cold Autoinflammatory Syndrome,10.0
+user_785,Myobloc,Dystonia,9.7
+user_785,Botox,Dystonia,9.0
+user_785,Botulinum toxin type b,Dystonia,9.6
+user_785,Carbatrol,Dystonia,8.7
+user_786,Fluvoxamine,Persistent Depressive Disorde,9.9
+user_786,Bupropion,Persistent Depressive Disorde,7.2
+user_786,Duloxetine,Persistent Depressive Disorde,10.0
+user_786,Citalopram,Persistent Depressive Disorde,8.2
+user_786,Amitriptyline,Persistent Depressive Disorde,8.9
+user_786,Fluoxetine,Persistent Depressive Disorde,6.1
+user_787,Somatropin,Turner's Syndrome,10.0
+user_787,Norditropin,Turner's Syndrome,10.0
+user_787,Humatrope,Turner's Syndrome,10.0
+user_788,Bee pollen,Herbal Supplementation,9.3
+user_788,Pegfilgrastim,Neutropenia Associated with Chemotherapy,8.1
+user_788,Lecithin,Herbal Supplementation,9.7
+user_788,Filgrastim,Neutropenia Associated with Chemotherapy,10.0
+user_789,Ospemifene,Dyspareunia,9.8
+user_789,Duragesic,Breakthrough Pain,7.7
+user_789,Actiq,Breakthrough Pain,9.8
+user_789,Fentanyl,Breakthrough Pain,8.0
+user_790,Cyproheptadine,ailure to Thrive,8.0
+user_791,Diazepam,Tetanus,5.9
+user_791,Valium,Tetanus,6.2
+user_792,Methimazole,Hyperthyroidism,4.0
+user_792,Tapazole,Hyperthyroidism,9.3
+user_792,Potassium iodide,Hyperthyroidism,9.9
+user_793,Nuvigil,Obstructive Sleep Apnea/Hypopnea Syndrome,9.3
+user_793,Modafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,8.2
+user_793,Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,9.8
+user_794,Tamoxifen,"Breast Cancer, Prevention",7.4
+user_794,Evista,"Breast Cancer, Prevention",10.0
+user_795,Gleevec,Acute Lymphoblastic Leukemia,10.0
+user_795,Imatinib,Acute Lymphoblastic Leukemia,10.0
+user_795,Iclusig,Acute Lymphoblastic Leukemia,1.0
+user_796,Azithromycin,Chlamydia Infection,5.9
+user_797,Medroxyprogesterone,Birth Control,6.9
+user_797,Aviane,Birth Control,6.9
+user_797,Xulane,Birth Control,1.0
+user_797,Yasmin,Birth Control,9.8
+user_797,Copper,Birth Control,6.4
+user_797,Levonorgestrel,Birth Control,3.7
+user_797,Sprintec,Birth Control,10.0
+user_798,Ivermectin,Scabies,9.0
+user_798,Stromectol,Scabies,7.0
+user_798,Permethrin,Scabies,9.5
+user_799,Levlen,9</span> users found this comment helpful.,1.0
+user_799,Pristiq,9</span> users found this comment helpful.,9.6
+user_799,Zegerid,9</span> users found this comment helpful.,5.6
+user_799,Amitiza,9</span> users found this comment helpful.,9.0
+user_799,Loestrin 24 Fe,9</span> users found this comment helpful.,4.7
+user_799,Allegra,9</span> users found this comment helpful.,4.6
+user_800,Clindamycin,Bacterial Infection,7.0
+user_800,Cephalexin,Bacterial Infection,5.3
+user_800,Keflex,Bacterial Infection,10.0
+user_800,Sulfamethoxazole / trimethoprim,Bacterial Infection,1.0
+user_800,Flagyl,Bacterial Infection,6.6
