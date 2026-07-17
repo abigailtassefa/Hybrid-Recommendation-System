@@ -20,7 +20,6 @@ MIN_CONDITIONS_PER_USER = 1     # each synthetic user "has" 1-2 conditions
 MAX_CONDITIONS_PER_USER = 2
 MIN_REVIEWS_PER_USER = 3        # each user rates between 3-8 drugs
 MAX_REVIEWS_PER_USER = 8
-RATING_NOISE_STD = 0.5          # small jitter so ratings aren't identical copies
 RANDOM_SEED = 42
 
 np.random.seed(RANDOM_SEED)
@@ -72,14 +71,12 @@ for user_id in range(1, NUM_SYNTHETIC_USERS + 1):
     # Step D: add noise to ratings so synthetic users aren't just carbon copies
     # of a single real review, and clip to valid 1-10 range
     for _, row in sampled.iterrows():
-        noisy_rating = row["rating"] + np.random.normal(0, RATING_NOISE_STD)
-        noisy_rating = float(np.clip(noisy_rating, 1, 10))
-
+        
         synthetic_rows.append({
             "synthetic_user_id": f"user_{user_id}",
             "drugName": row["drugName"],
             "condition": row["condition"],
-            "rating": round(noisy_rating, 1),
+            "rating": row["rating"],
         })
 
 # ----------------------------
